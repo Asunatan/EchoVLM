@@ -1,2 +1,1 @@
-# Ultrasound-MOE
-The First Ultrasound Mixture-of-Experts (MoE) Large Vision-Language Model
+# EchoVLM: Dynamic Mixture-of-Experts Vision-Language Model for Universal Ultrasound Intelligence
