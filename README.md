@@ -11,6 +11,12 @@ Official PyTorch implementation of the model described in
 | Authors     | Chaoyin She¹, Ruifang Lu²                        |
 | Code        | [GitHub repo](https://github.com/Asunatan/EchoVLM) |
 | Model Hub   | [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM) |
+
+## 🔄 Updates
+- **Sep 19, 2025**: Released the cleaned V1 codebase and uploaded model weights to [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM).  
+- **Sep 17, 2025**: Paper published on [arXiv](https://arxiv.org/abs/2509.14977).  
+- **Coming soon**: V2 with Chain-of-Thought reasoning and reinforcement learning enhancements.
+
 ## 🚀 Quick Start
 ### Using 🤗  Transformers to Chat
 
