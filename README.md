@@ -13,7 +13,7 @@ Official PyTorch implementation of the model described in
 | Model Hub   | [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM) |
 
 ## 🔄 Updates
-- **Sep 19, 2025**: Released the cleaned V1 codebase and uploaded model weights to [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM).  
+- **Sep 19, 2025**: Released model weights on [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM).  
 - **Sep 17, 2025**: Paper published on [arXiv](https://arxiv.org/abs/2509.14977).  
 - **Coming soon**: V2 with Chain-of-Thought reasoning and reinforcement learning enhancements.
 
