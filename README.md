@@ -1,21 +1,3 @@
----
-license: apache-2.0
-language:
-- zh
-- en
-metrics:
-- bertscore
-- bleu
-base_model:
-- Qwen/Qwen2-VL-7B-Instruct
-pipeline_tag: image-text-to-text
-library_name: transformers
-tags:
-- medical
----
-
-
-
 # EchoVLM (paper implementation)
 
 Official PyTorch implementation of the model described in  
