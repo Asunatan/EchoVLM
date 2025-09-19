@@ -10,7 +10,7 @@ Official PyTorch implementation of the model described in
 | Paper       | [arXiv:2509.14977](https://arxiv.org/abs/2509.14977) |
 | Authors     | Chaoyin She¹, Ruifang Lu²                        |
 | Code        | [GitHub repo](https://github.com/Asunatan/EchoVLM) |
-
+| Model Hub   | [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM) |
 ## 🚀 Quick Start
 ### Using 🤗  Transformers to Chat
 
