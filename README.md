@@ -13,10 +13,11 @@ Official PyTorch implementation of the model described in
 | Model Hub   | [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM) |
 
 ## 🔄 Updates
+- **Coming soon**: V2 with Chain-of-Thought reasoning and reinforcement learning enhancements.
+- **Sep 21, 2025**: The full, uncleaned model codebase is now open-sourced on GitHub!
 - **Sep 19, 2025**: Released model weights on [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM).  
 - **Sep 17, 2025**: Paper published on [arXiv](https://arxiv.org/abs/2509.14977).
-- **Sep 21, 2025**: The full, uncleaned model codebase is now open-sourced on GitHub!
-- **Coming soon**: V2 with Chain-of-Thought reasoning and reinforcement learning enhancements.
+
 
 ## 🚀 Quick Start
 ### Using 🤗  Transformers to Chat
