@@ -14,6 +14,7 @@ Official PyTorch implementation of the model described in
 
 ## 🔄 Updates
 - **Coming soon**: V2 with Chain-of-Thought reasoning and reinforcement learning enhancements—full training & inference code plus benchmark test-set will be fully open-sourced.
+- **Dec 1, 2025**: To better promote development in this field, we've open-sourced our latest instruction fine-tuned model based on Lingshu-7B. Essentially built on Qwen2.5VL, it enjoys a better ecosystem—for example, it can seamlessly leverage vLLM for accelerated inference. Released model weights on [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM_V2_lingshu_base_7b_instruct_preview).  
 - **Sep 21, 2025**: The full, uncleaned model codebase is now open-sourced on GitHub!
 - **Sep 19, 2025**: Released model weights on [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM).  
 - **Sep 17, 2025**: Paper published on [arXiv](https://arxiv.org/abs/2509.14977).
