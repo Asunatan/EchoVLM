@@ -15,6 +15,8 @@ Official PyTorch implementation of the model described in
 ## 🔄 Updates
 - **Coming soon**: V2 with Chain-of-Thought reasoning and reinforcement learning enhancements—full training & inference code plus benchmark test-set will be fully open-sourced.
 - **Dec 21, 2025**: The latest transformers library (v4.57.3) no longer supports this code. You can either downgrade the library version (v4.47.0), or simply copy the `Qwen2VLRotaryEmbedding` function from v4.57.3 and pass it to your config—this is quite straightforward. If you need help, consulting the chat teacher is a good option. Alternatively, you can use the v2 version based on lingshu's implementation, which uses higher-quality data and offers better performance.
+- <img width="1011" height="738" alt="image" src="https://github.com/user-attachments/assets/ebe826f4-6057-4069-87e4-b3abc6f5d2e4" />
+
 - **Dec 1, 2025**: To better promote development in this field, we've open-sourced our latest instruction fine-tuned model based on Lingshu-7B. Essentially built on Qwen2.5VL, it enjoys a better ecosystem—for example, it can seamlessly leverage vLLM for accelerated inference. Released model weights on [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM_V2_lingshu_base_7b_instruct_preview).  
 - **Sep 21, 2025**: The full, uncleaned model codebase is now open-sourced on GitHub!
 - **Sep 19, 2025**: Released model weights on [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM).  
