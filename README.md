@@ -14,9 +14,10 @@ Official PyTorch implementation of the model described in
 
 ## 🔄 Updates
 - **Coming soon**: V2 with Chain-of-Thought reasoning and reinforcement learning enhancements—full training & inference code plus benchmark test-set will be fully open-sourced.
+- **Dec 26, 2025**: During inference, ensure that `output_router_logits` is in a `false` state.
 - **Dec 21, 2025**:
   
-  TypeError: _compute_default_rope_parameters() got an unexpected keyword argument 'rope_type'
+  `TypeError: _compute_default_rope_parameters() got an unexpected keyword argument 'rope_type'`
   
 The latest transformers library (v4.57.3) no longer supports this code. You can either downgrade the library version (v4.47.0), or simply copy the `Qwen2VLRotaryEmbedding` function from v4.57.3 and pass it to your config—this is quite straightforward. If you need help, consulting the chat teacher is a good option. Alternatively, you can use the v2 version based on lingshu's implementation, which uses higher-quality data and offers better performance.
 - <img width="1011" height="738" alt="image" src="https://github.com/user-attachments/assets/ebe826f4-6057-4069-87e4-b3abc6f5d2e4" />
