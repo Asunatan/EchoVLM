@@ -27,7 +27,8 @@ Official PyTorch implementation of the model described in
 Here we show a code snippet to show you how to use the chat model with `transformers` and `qwen_vl_utils`:
 
 ```python
-from transformers import Qwen2VLMOEForConditionalGeneration, AutoProcessor
+from EchoVLM import Qwen2VLMOEForConditionalGeneration
+from transformers import AutoProcessor
 from qwen_vl_utils import process_vision_info
 import torch
 
