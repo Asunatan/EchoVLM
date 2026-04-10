@@ -1,0 +1,4874 @@
+[
+    {
+        "id": "1 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/1 Benign Image.png"
+        ],
+        "description": "乳腺区显示多个尺寸不等的无回声区，形态不规则，边界清晰，内部回声均一，后方增强声影，提示可能为囊性或含液性病变。周围乳腺组织回声均匀，无明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声科医师身份，热心助人，用系统化方法，帮助用户理解病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像里有什么？请描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区显示多个尺寸不等的无回声区，形态不规则，边界清晰，内部回声均一，后方增强声影，提示可能为囊性或含液性病变。周围乳腺组织回声均匀，无明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "1 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/1 Malignant Image.png"
+        ],
+        "description": "乳腺超声图像示右侧乳腺内见一低回声团块，边界不清，形态不规则，内部回声不均匀，伴明显后方声影，周围可见乳腺组织结构。上述表现提示病变性质可能为实体性占位，需结合临床及进一步检查明确诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像博士，热心助人，用缜密逻辑与最新研究，解析病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中有什么？请用文字表达。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像示右侧乳腺内见一低回声团块，边界不清，形态不规则，内部回声不均匀，伴明显后方声影，周围可见乳腺组织结构。上述表现提示病变性质可能为实体性占位，需结合临床及进一步检查明确诊断。"
+            }
+        ]
+    },
+    {
+        "id": "10 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/10 Benign Image.png"
+        ],
+        "description": "乳腺内见一不规则低回声病灶，内部回声欠均匀，边界欠清，部分边缘可见毛刺状改变，周围可见少许后方回声减弱，未见明显囊性区。提示病灶性质需结合临床及病理进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你专注于超声健康支持，是贴心的助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中有什么？请用中文说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则低回声病灶，内部回声欠均匀，边界欠清，部分边缘可见毛刺状改变，周围可见少许后方回声减弱，未见明显囊性区。提示病灶性质需结合临床及病理进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "10 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/10 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形态低回声区，边界欠清晰，内部回声不均匀，伴有多个小的点状高回声，部分区域回声增强，未见明显后方声影。周围乳腺组织回声结构未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术顾问，始终以科学逻辑与规范流程，解答用户疑虑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请生成一段超声检查的解读。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态低回声区，边界欠清晰，内部回声不均匀，伴有多个小的点状高回声，部分区域回声增强，未见明显后方声影。周围乳腺组织回声结构未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "100 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/100 Benign Image.png"
+        ],
+        "description": "乳腺部分可见一低回声包块，形态规则，边界清晰，包块内部回声均匀，无明显钙化，符合良性囊性病变特征。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "You are a professional ultrasound clinician."
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图里有什么？请描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺部分可见一低回声包块，形态规则，边界清晰，包块内部回声均匀，无明显钙化，符合良性囊性病变特征。"
+            }
+        ]
+    },
+    {
+        "id": "100 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/100 Malignant Image.png"
+        ],
+        "description": "乳腺超声图像显示局部具低回声区，边界不清，内部回声不均匀。病灶形态不规则，部分区域可见后方声影，提示可能为实性病变。周围乳腺组织回声稍增粗。建议结合临床进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声影像权威，乐于以科学推理与最新标准，为用户提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能否帮我对这张超声片进行描述？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像显示局部具低回声区，边界不清，内部回声不均匀。病灶形态不规则，部分区域可见后方声影，提示可能为实性病变。周围乳腺组织回声稍增粗。建议结合临床进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "101 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/101 Benign Image.png"
+        ],
+        "description": "乳腺实质内可见一圆形无回声区，边界清晰，形态规则，后方伴声增强，提示囊性病变可能。周围乳腺组织未见明显异常回声。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声诊断行家，恪守循证医学，为用户提供权威而清晰的解释。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图中有什么？请用中文描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺实质内可见一圆形无回声区，边界清晰，形态规则，后方伴声增强，提示囊性病变可能。周围乳腺组织未见明显异常回声。"
+            }
+        ]
+    },
+    {
+        "id": "101 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/101 Malignant Image.png"
+        ],
+        "description": "乳腺内见一形态规则、边界清晰的囊性病变，内部呈低回声，内见点状强回声。未见明显周围回声增强或阴影。考虑良性囊肿可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域行家，恪守循证医学，为用户提供精准可信的答复。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请把这张超声成像的内容文字化。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一形态规则、边界清晰的囊性病变，内部呈低回声，内见点状强回声。未见明显周围回声增强或阴影。考虑良性囊肿可能。"
+            }
+        ]
+    },
+    {
+        "id": "102 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/102 Benign Image.png"
+        ],
+        "description": "乳腺内见一大小适中的低回声结节，形态不规则，边界欠清，内部回声不均，伴有声影，周围组织回声增粗。提示病变可能具有侵袭性，建议进一步诊断评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是热心助人的超声医疗小秘书。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用中文输出这张超声影像的描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一大小适中的低回声结节，形态不规则，边界欠清，内部回声不均，伴有声影，周围组织回声增粗。提示病变可能具有侵袭性，建议进一步诊断评估。"
+            }
+        ]
+    },
+    {
+        "id": "102 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/102 Malignant Image.png"
+        ],
+        "description": "乳腺内见低回声团块，形态不规则，边界不清，内部回声不均匀，后方声影明显，周边组织回声未见明显异常。该病变特征提示恶性可能，建议进一步检查及病理确认。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声医学权威，严谨而细致，依据科学证据，为用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>需要一段针对此超声图像的解读文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见低回声团块，形态不规则，边界不清，内部回声不均匀，后方声影明显，周边组织回声未见明显异常。该病变特征提示恶性可能，建议进一步检查及病理确认。"
+            }
+        ]
+    },
+    {
+        "id": "103 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/103 Benign Image.png"
+        ],
+        "description": "乳腺内可见一低回声囊性病变，内部回声混杂，边界清晰，形态不规则，周围组织回声均匀。提示可能为复杂性囊肿或囊实性占位，建议结合临床及进一步检查。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域专家，耐心而严谨，依据可靠数据，为用户提供专业意见。"
+            },
+            {
+                "from": "human",
+                "value": "<image>基于这张超声影像生成精确的描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一低回声囊性病变，内部回声混杂，边界清晰，形态不规则，周围组织回声均匀。提示可能为复杂性囊肿或囊实性占位，建议结合临床及进一步检查。"
+            }
+        ]
+    },
+    {
+        "id": "103 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/103 Malignant Image.png"
+        ],
+        "description": "乳腺影像显示一低回声区，形态不规则，边界欠清，内部回声不均匀，后方伴明显声影，范围较大，提示可能为乳腺病变需进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声科专家身份，耐心细致地、按循证标准，解答每一个提问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>画面中有哪些值得注意的细节？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺影像显示一低回声区，形态不规则，边界欠清，内部回声不均匀，后方伴明显声影，范围较大，提示可能为乳腺病变需进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "104 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/104 Benign Image.png"
+        ],
+        "description": "乳腺区见一囊性低回声区，形态规整，边界清晰，内部均质无明显内部回声，周围组织回声均匀，无明显浸润表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是专门为用户服务的超声医疗小帮手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>描述一下图中所见。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一囊性低回声区，形态规整，边界清晰，内部均质无明显内部回声，周围组织回声均匀，无明显浸润表现。"
+            }
+        ]
+    },
+    {
+        "id": "104 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/104 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则低回声区，边界不清，内部回声不均匀，部分区域呈强化回声，周围回声模糊，提示病变可能性较大。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是用户可依靠的超声医疗小顾问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请基于这张超声影像撰写说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则低回声区，边界不清，内部回声不均匀，部分区域呈强化回声，周围回声模糊，提示病变可能性较大。"
+            }
+        ]
+    },
+    {
+        "id": "105 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/105 Benign Image.png"
+        ],
+        "description": "乳腺组织内见一规则、边界清晰的无回声区，内部呈完全回声缺失，后方可见良好的声透射增强，周围乳腺组织回声均匀。考虑为单发囊性病变，性质良性可能性大。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术顾问，逻辑清晰，引用权威文献，确保每句答复可信。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用文字描绘图里的主要信息。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一规则、边界清晰的无回声区，内部呈完全回声缺失，后方可见良好的声透射增强，周围乳腺组织回声均匀。考虑为单发囊性病变，性质良性可能性大。"
+            }
+        ]
+    },
+    {
+        "id": "105 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/105 Malignant Image.png"
+        ],
+        "description": "乳腺组织内见一边界清晰的圆形低回声病灶，内可见点状强回声钙化，周围未见明显周围浸润征象，病灶整体回声均匀。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声影像导师，耐心解答，遵循最新标准，为用户提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用专业文字描述超声影像。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一边界清晰的圆形低回声病灶，内可见点状强回声钙化，周围未见明显周围浸润征象，病灶整体回声均匀。"
+            }
+        ]
+    },
+    {
+        "id": "106 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/106 Benign Image.png"
+        ],
+        "description": "乳腺内见一囊性病灶，呈无回声，形态规整，边界清晰，后方出现明显声透亮区，未见内部回声。周围组织未见明显异常回声。提示为单纯性囊肿表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你专注于超声健康支持，是贴心的助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>概述这张图的主要内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性病灶，呈无回声，形态规整，边界清晰，后方出现明显声透亮区，未见内部回声。周围组织未见明显异常回声。提示为单纯性囊肿表现。"
+            }
+        ]
+    },
+    {
+        "id": "106 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/106 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形态，边界清晰的无回声区，内部呈均匀低回声，后方声影明显。该病灶形态不规则，回声均匀，易考虑为囊性病变。周围未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心且严谨的超声医师，善用逻辑与证据，回应用户健康咨询。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文概括这张超声图的内容"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态，边界清晰的无回声区，内部呈均匀低回声，后方声影明显。该病灶形态不规则，回声均匀，易考虑为囊性病变。周围未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "107 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/107 Benign Image.png"
+        ],
+        "description": "乳腺组织中可见一呈圆形或椭圆形无回声区，边界清晰、规则，周围未见明显回声增强，提示可能为乳腺囊性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声医学助手，严谨细致，用专业指南，帮助用户理解诊断。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用文字表达图像的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织中可见一呈圆形或椭圆形无回声区，边界清晰、规则，周围未见明显回声增强，提示可能为乳腺囊性病变。"
+            }
+        ]
+    },
+    {
+        "id": "107 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/107 Malignant Image.png"
+        ],
+        "description": "乳腺组织内见一不规则低回声区，形态不规则，边界欠清，内部呈无回声区，考虑囊性病变可能，周围组织回声均匀。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "用户可把你当成超声医疗小管家。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请把超声影像内容文字化。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一不规则低回声区，形态不规则，边界欠清，内部呈无回声区，考虑囊性病变可能，周围组织回声均匀。"
+            }
+        ]
+    },
+    {
+        "id": "108 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/108 Benign Image.png"
+        ],
+        "description": "乳腺内见一大小适中、形态规整的囊性病变，边界清晰，呈明显无回声，后方伴声增强。周围乳腺组织结构未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声医学助手，耐心解答，用系统化思路与规范标准，帮助用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张超声图像，麻烦生成对应的描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一大小适中、形态规整的囊性病变，边界清晰，呈明显无回声，后方伴声增强。周围乳腺组织结构未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "108 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/108 Malignant Image.png"
+        ],
+        "description": "乳腺内见一圆形低回声结节，边界清晰，形态规则。结节内部均匀回声，无明显钙化及声影。周围组织未见明显异常。该表现提示可能为良性囊性病变或单纯囊肿，建议结合临床随访。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声影像权威，热心而严谨，依据可靠证据，逐一解答用户疑问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这里有一张超声图像，帮我生成对应的描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一圆形低回声结节，边界清晰，形态规则。结节内部均匀回声，无明显钙化及声影。周围组织未见明显异常。该表现提示可能为良性囊性病变或单纯囊肿，建议结合临床随访。"
+            }
+        ]
+    },
+    {
+        "id": "109 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/109 Benign Image.png"
+        ],
+        "description": "乳腺内见一低回声病灶，形态规则，呈卵圆形，边界清晰，部分边缘可见光滑，内部回声均匀，未见明显后方声影或声增强，周围组织界限清楚。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心且严谨的超声医师，善用逻辑与证据，回应用户健康咨询。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请为超声照片撰写医学描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一低回声病灶，形态规则，呈卵圆形，边界清晰，部分边缘可见光滑，内部回声均匀，未见明显后方声影或声增强，周围组织界限清楚。"
+            }
+        ]
+    },
+    {
+        "id": "109 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/109 Malignant Image.png"
+        ],
+        "description": "乳腺超声图像示，乳腺内可见两个边界清晰的实性占位，呈低回声，内部回声均匀，形态规则，边缘光滑，未见明显侵袭周围组织表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声影像权威，热心而严谨，依据可靠证据，逐一解答用户疑问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图的画面里有哪些内容？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像示，乳腺内可见两个边界清晰的实性占位，呈低回声，内部回声均匀，形态规则，边缘光滑，未见明显侵袭周围组织表现。"
+            }
+        ]
+    },
+    {
+        "id": "11 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/11 Benign Image.png"
+        ],
+        "description": "图像显示乳腺组织内见一呈不规则形态的低回声区，边界模糊，内部回声不均，部分区域可见声影，周围组织结构无明显异常，提示病变性质需进一步鉴别。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声诊断专家，乐于用科学推理与规范准则，提供权威解答。"
+            },
+            {
+                "from": "human",
+                "value": "<image>麻烦你解读一下这张超声扫描图。"
+            },
+            {
+                "from": "gpt",
+                "value": "图像显示乳腺组织内见一呈不规则形态的低回声区，边界模糊，内部回声不均，部分区域可见声影，周围组织结构无明显异常，提示病变性质需进一步鉴别。"
+            }
+        ]
+    },
+    {
+        "id": "11 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/11 Malignant Image.png"
+        ],
+        "description": "乳腺内见一低回声区，形态不规则，边界欠清，内部回声不均匀，有后方声影，周围组织回声未见明显异常。考虑可疑病变，建议进一步诊断评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术行家，用逻辑清晰的循证方法，帮助用户理解病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请概括图像的主要内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一低回声区，形态不规则，边界欠清，内部回声不均匀，有后方声影，周围组织回声未见明显异常。考虑可疑病变，建议进一步诊断评估。"
+            }
+        ]
+    },
+    {
+        "id": "110 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/110 Malignant Image.png"
+        ],
+        "description": "乳腺区见一不规则形态低回声区，内部回声不均匀，边界欠清晰，部分边缘呈毛刺状，周围未见明显包膜，内部可见点状强回声。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声诊断专家角色，条理分明地引用指南，为用户提供可靠医学意见。"
+            },
+            {
+                "from": "human",
+                "value": "<image>为此超声片子生成文字说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一不规则形态低回声区，内部回声不均匀，边界欠清晰，部分边缘呈毛刺状，周围未见明显包膜，内部可见点状强回声。"
+            }
+        ]
+    },
+    {
+        "id": "111 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/111 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则低回声区，边界不清，内部回声不均，伴有明显后方声影，提示病变质地致密且可能侵犯周围组织。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像行家，乐于用科学逻辑与循证数据，精准服务用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用简洁医学术语描述超声影像"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则低回声区，边界不清，内部回声不均，伴有明显后方声影，提示病变质地致密且可能侵犯周围组织。"
+            }
+        ]
+    },
+    {
+        "id": "112 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/112 Malignant Image.png"
+        ],
+        "description": "乳腺内见一大小约测量的囊性病变，形态规整，边界清晰，内部回声弱，呈无回声，符合囊肿表现。周围组织未见明显异常回声。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科博士，用系统化思考与最新标准，帮助用户理解病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>把超声成像的内容用中文描述"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一大小约测量的囊性病变，形态规整，边界清晰，内部回声弱，呈无回声，符合囊肿表现。周围组织未见明显异常回声。"
+            }
+        ]
+    },
+    {
+        "id": "113 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/113 Malignant Image.png"
+        ],
+        "description": "乳腺区见一包块，边界清晰，形态规则，内部呈混合回声，局部回声不均匀，包块后方可见少许声增强。周围组织结构完整，无明显浸润迹象。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术顾问，始终以科学逻辑与规范流程，解答用户疑虑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用中文生成该超声图的描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一包块，边界清晰，形态规则，内部呈混合回声，局部回声不均匀，包块后方可见少许声增强。周围组织结构完整，无明显浸润迹象。"
+            }
+        ]
+    },
+    {
+        "id": "114 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/114 Malignant Image.png"
+        ],
+        "description": "乳腺组织内见一不均质低回声区，轮廓欠清，边界模糊，形态不规则，内部回声散在，伴有后方声影。周围组织结构紊乱，提示可能存在浸润性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科行家，热心助人，用最新研究与系统化方法，解析问题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请生成一段超声图的说明文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一不均质低回声区，轮廓欠清，边界模糊，形态不规则，内部回声散在，伴有后方声影。周围组织结构紊乱，提示可能存在浸润性病变。"
+            }
+        ]
+    },
+    {
+        "id": "115 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/115 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形状无回声区，边界清晰，后方声影增强，符合囊性病变特征。周围组织未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "用户可把你当成超声医疗小管家。"
+            },
+            {
+                "from": "human",
+                "value": "<image>麻烦把这张超声图像的要点写出来。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形状无回声区，边界清晰，后方声影增强，符合囊性病变特征。周围组织未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "116 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/116 Malignant Image.png"
+        ],
+        "description": "乳腺内可见一不规则形态低回声区，边界欠清晰，内部回声不均，伴有较明显后方声影。病变周围乳腺组织结构紊乱，考虑恶性病变可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声影像专家，热心而缜密，依据权威文献，逐一回应用户问题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>撰写一段与超声图对应的文字"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一不规则形态低回声区，边界欠清晰，内部回声不均，伴有较明显后方声影。病变周围乳腺组织结构紊乱，考虑恶性病变可能。"
+            }
+        ]
+    },
+    {
+        "id": "117 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/117 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形态、高回声包块，内部回声不均，有多个点状强回声。边界欠清，部分边缘呈毛刺状，包块周围回声稍显紊乱，未见明显声影异常。病变位于皮下组织深部。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是热心助人的超声医疗小秘书。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能否把这张超声影像转化为文字描述？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态、高回声包块，内部回声不均，有多个点状强回声。边界欠清，部分边缘呈毛刺状，包块周围回声稍显紊乱，未见明显声影异常。病变位于皮下组织深部。"
+            }
+        ]
+    },
+    {
+        "id": "118 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/118 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形态的囊性占位，边界清晰，内部呈无回声，部分伴有局部低回声分隔结构，未见明显内部回声，周围组织回声未见明显异常，考虑为乳腺囊性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心肠的超声科专家，始终严谨、条理清晰，并恪守循证医学准则，为用户答疑解惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>我想请你给这张超声扫描写个报告。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态的囊性占位，边界清晰，内部呈无回声，部分伴有局部低回声分隔结构，未见明显内部回声，周围组织回声未见明显异常，考虑为乳腺囊性病变。"
+            }
+        ]
+    },
+    {
+        "id": "119 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/119 Malignant Image.png"
+        ],
+        "description": "乳腺内可见一低回声区，形态不规则，边界欠清，回声不均，内部伴有散在点状强回声，未见明显声影。周围组织回声尚均匀。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你专注于超声健康支持，是贴心的助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请为这张超声扫描结果写段文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一低回声区，形态不规则，边界欠清，回声不均，内部伴有散在点状强回声，未见明显声影。周围组织回声尚均匀。"
+            }
+        ]
+    },
+    {
+        "id": "12 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/12 Benign Image.png"
+        ],
+        "description": "乳腺内见一不规则形态低回声病灶，内部回声不均，边界欠清，周围可见少许回声增强，提示可能为恶性病变，建议进一步诊断和随访。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声医学身份，细致入微地、循证地，帮助用户理解检查结果。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图中有什么？请用文字说明"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态低回声病灶，内部回声不均，边界欠清，周围可见少许回声增强，提示可能为恶性病变，建议进一步诊断和随访。"
+            }
+        ]
+    },
+    {
+        "id": "12 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/12 Malignant Image.png"
+        ],
+        "description": "乳腺组织内见一不规则低回声结节，边界欠清，形态不规则，内部可见点状强回声，周围回声欠均匀，部分区域伴有后方声影。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声诊断顾问，乐于用缜密逻辑与专业指南，帮助用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请描述图像所呈现的画面。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一不规则低回声结节，边界欠清，形态不规则，内部可见点状强回声，周围回声欠均匀，部分区域伴有后方声影。"
+            }
+        ]
+    },
+    {
+        "id": "120 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/120 Malignant Image.png"
+        ],
+        "description": "乳腺实质内见一界限清晰的圆形无回声区，大小适中，边界光整，内部均质，后方声增强，符合简单囊肿表现。周围乳腺组织回声均匀，无明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你乐于以超声医疗支持者身份效劳。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图展示的是什么？请说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺实质内见一界限清晰的圆形无回声区，大小适中，边界光整，内部均质，后方声增强，符合简单囊肿表现。周围乳腺组织回声均匀，无明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "121 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/121 Malignant Image.png"
+        ],
+        "description": "乳腺内可见大小不一的不规则无回声区，内部伴有点状强回声，边界不清，形态不规则，周围组织回声模糊，可能提示复杂性囊性病变或乳腺恶性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术顾问，严谨而专业，依据可靠数据，提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图里有什么？请简要说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见大小不一的不规则无回声区，内部伴有点状强回声，边界不清，形态不规则，周围组织回声模糊，可能提示复杂性囊性病变或乳腺恶性病变。"
+            }
+        ]
+    },
+    {
+        "id": "122 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/122 Malignant Image.png"
+        ],
+        "description": "乳腺内见一呈不规则形态、边界尚清晰的低回声区，内部回声不均匀，伴有明显后方声影，周围组织回声未见明显异常。考虑病变性质需结合临床及进一步检查评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科指导者，热心服务，以系统思维与规范标准，帮助用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文描述这张超声检查结果"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一呈不规则形态、边界尚清晰的低回声区，内部回声不均匀，伴有明显后方声影，周围组织回声未见明显异常。考虑病变性质需结合临床及进一步检查评估。"
+            }
+        ]
+    },
+    {
+        "id": "123 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/123 Malignant Image.png"
+        ],
+        "description": "乳腺区见一不规则无回声区，边界欠清，后方声影明显，周围组织回声无明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名专注超声技术的医学顾问，乐于用严谨方法和专业知识，解答用户难题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>把这张超声成像简要说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一不规则无回声区，边界欠清，后方声影明显，周围组织回声无明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "13 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/13 Benign Image.png"
+        ],
+        "description": "乳腺内见一囊性病变，形态规则，边界清晰，内部呈无回声，后方声增强明显。未见明显内部实性结构或钙化，囊壁光滑。符合单纯囊肿表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是用户专属的超声健康支持助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用医学口吻描述这张影像。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性病变，形态规则，边界清晰，内部呈无回声，后方声增强明显。未见明显内部实性结构或钙化，囊壁光滑。符合单纯囊肿表现。"
+            }
+        ]
+    },
+    {
+        "id": "13 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/13 Malignant Image.png"
+        ],
+        "description": "乳腺部位见一表现为无回声区，形态规则，边界清晰，后方声增强明显，提示囊性病变。周围组织回声均匀，无明显浸润改变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声医学权威，严谨而细致，依据科学证据，为用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图里有什么值得注意的地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺部位见一表现为无回声区，形态规则，边界清晰，后方声增强明显，提示囊性病变。周围组织回声均匀，无明显浸润改变。"
+            }
+        ]
+    },
+    {
+        "id": "14 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/14 Benign Image.png"
+        ],
+        "description": "乳腺内见一不规则形状低回声区，边界不清，回声不均匀，内部可见细小声影，病变周围组织回声增多，提示可能为恶性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声医学顾问，耐心解答，遵循科学规范，为用户提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请基于该超声图生成描述文本。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形状低回声区，边界不清，回声不均匀，内部可见细小声影，病变周围组织回声增多，提示可能为恶性病变。"
+            }
+        ]
+    },
+    {
+        "id": "14 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/14 Malignant Image.png"
+        ],
+        "description": "乳腺组织内可见一囊性病变，边界不规则，内见混杂回声，部分回声呈无回声区，囊壁略厚。该病变回声不均匀，考虑复杂囊性病变或含有固态成分，建议结合临床及进一步影像学检查。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声诊断行家，乐于用严密推理与可靠数据，提供精准解答。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这幅图里出现了什么？请用文字描绘画面。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内可见一囊性病变，边界不规则，内见混杂回声，部分回声呈无回声区，囊壁略厚。该病变回声不均匀，考虑复杂囊性病变或含有固态成分，建议结合临床及进一步影像学检查。"
+            }
+        ]
+    },
+    {
+        "id": "15 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/15 Benign Image.png"
+        ],
+        "description": "乳腺超声示一低回声肿块，形态不规则，边界不清，内部回声不均，有散在强回声点，后方回声增强，提示肿块可能具有侵袭性。周围组织结构受压，未见明显钙化灶。需要结合临床及进一步检查明确诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名专注超声技术的医学顾问，乐于用严谨方法和专业知识，解答用户难题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中有什么东西？请概括。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声示一低回声肿块，形态不规则，边界不清，内部回声不均，有散在强回声点，后方回声增强，提示肿块可能具有侵袭性。周围组织结构受压，未见明显钙化灶。需要结合临床及进一步检查明确诊断。"
+            }
+        ]
+    },
+    {
+        "id": "15 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/15 Malignant Image.png"
+        ],
+        "description": "乳腺内见一明显低回声包块，形态不规则，边界模糊，内部回声均匀，后方出现明显声影，提示病变可能为实性，性质需结合临床及进一步检查鉴别。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科资深专家，乐于用逻辑推理与专业文献，回应提问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文输出该超声扫描描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一明显低回声包块，形态不规则，边界模糊，内部回声均匀，后方出现明显声影，提示病变可能为实性，性质需结合临床及进一步检查鉴别。"
+            }
+        ]
+    },
+    {
+        "id": "16 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/16 Benign Image.png"
+        ],
+        "description": "乳腺内见一呈环形低回声病灶，中央为无回声区，边界清晰，形态规则，伴有后方声增强，提示可能为囊性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声医学权威，严谨而细致，依据科学证据，为用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图的内容有什么？请描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一呈环形低回声病灶，中央为无回声区，边界清晰，形态规则，伴有后方声增强，提示可能为囊性病变。"
+            }
+        ]
+    },
+    {
+        "id": "16 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/16 Malignant Image.png"
+        ],
+        "description": "乳腺超声图像显示乳腺组织内存在一不规则形态低回声区，边界欠清，回声不均匀，内部回声较暗，伴有后方声影，周围组织回声增粗，提示病变可能具有侵袭性。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "You are a professional ultrasound clinician."
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文总结这张超声图。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像显示乳腺组织内存在一不规则形态低回声区，边界欠清，回声不均匀，内部回声较暗，伴有后方声影，周围组织回声增粗，提示病变可能具有侵袭性。"
+            }
+        ]
+    },
+    {
+        "id": "17 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/17 Benign Image.png"
+        ],
+        "description": "乳腺内见一边界清晰、形态规整的囊性病变，呈无回声，后方回声增强，未见明显内部回声。囊壁薄且光滑，周围组织未见明显异常回声。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科博士，耐心细致，用系统化方法与循证知识，服务用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>基于该超声照片撰写简要说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一边界清晰、形态规整的囊性病变，呈无回声，后方回声增强，未见明显内部回声。囊壁薄且光滑，周围组织未见明显异常回声。"
+            }
+        ]
+    },
+    {
+        "id": "17 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/17 Malignant Image.png"
+        ],
+        "description": "乳腺内可见一不规则形态低回声区，内部回声不均，边界欠清，部分边缘呈毛刺状，周围可见声影，符合恶性病变超声表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声诊断专家，细致严谨，用循证数据，提供精准医学意见。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请生成一段针对超声图的解读。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一不规则形态低回声区，内部回声不均，边界欠清，部分边缘呈毛刺状，周围可见声影，符合恶性病变超声表现。"
+            }
+        ]
+    },
+    {
+        "id": "18 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/18 Benign Image.png"
+        ],
+        "description": "乳腺右侧叶内见一呈圆形、边界清晰的无回声区，内部均匀无内部分隔，后方声影增强，边界光滑规整，符合囊性病变表现。周围组织回声均匀，无明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像行家，乐于用科学逻辑与循证数据，精准服务用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用医学语言解读此超声图。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺右侧叶内见一呈圆形、边界清晰的无回声区，内部均匀无内部分隔，后方声影增强，边界光滑规整，符合囊性病变表现。周围组织回声均匀，无明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "18 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/18 Malignant Image.png"
+        ],
+        "description": "乳腺组织内可见一低回声区，形态不规则，边界模糊，内部回声不均，后方伴有声影，提示可能为恶性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "作为超声影像顾问，你时刻准备用系统化的思路和可靠证据，帮助用户排除困惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用专业方式解读超声影像。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内可见一低回声区，形态不规则，边界模糊，内部回声不均，后方伴有声影，提示可能为恶性病变。"
+            }
+        ]
+    },
+    {
+        "id": "19 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/19 Benign Image.png"
+        ],
+        "description": "乳腺内见一囊性肿物，形态规则，边界清晰，内部呈无回声，后方可见明显声增强，周围组织未见异常回声改变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声诊断专家角色，条理分明地引用指南，为用户提供可靠医学意见。"
+            },
+            {
+                "from": "human",
+                "value": "<image>撰写一段关于这张超声扫描的说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性肿物，形态规则，边界清晰，内部呈无回声，后方可见明显声增强，周围组织未见异常回声改变。"
+            }
+        ]
+    },
+    {
+        "id": "19 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/19 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形态、边界欠清、内部呈明显无回声的病变，周围组织回声较均匀，声影未见明显增强。考虑液性内容物，符合囊性病变表现，需结合临床进一步评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "作为超声健康支援者，你时刻准备协助用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像描绘了哪些内容？请说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态、边界欠清、内部呈明显无回声的病变，周围组织回声较均匀，声影未见明显增强。考虑液性内容物，符合囊性病变表现，需结合临床进一步评估。"
+            }
+        ]
+    },
+    {
+        "id": "2 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/2 Benign Image.png"
+        ],
+        "description": "乳腺超声图像显示一不规则形态的低回声病变，边界欠清，内部结构杂乱，伴有后方增强回声，提示病变可能为囊性或实性病变混合，需进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声影像顾问，耐心而系统，依据最新研究，为用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文输出该图超声描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像显示一不规则形态的低回声病变，边界欠清，内部结构杂乱，伴有后方增强回声，提示病变可能为囊性或实性病变混合，需进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "2 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/2 Malignant Image.png"
+        ],
+        "description": "乳腺超声图像显示中央可见一不规则形状，无回声的囊性病变，边界清晰，周围组织回声均匀，病变内未见明显回声散射。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你愿意为用户效劳，是可靠的超声医疗顾问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>为这张超声影像撰写一段专业描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像显示中央可见一不规则形状，无回声的囊性病变，边界清晰，周围组织回声均匀，病变内未见明显回声散射。"
+            }
+        ]
+    },
+    {
+        "id": "20 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/20 Benign Image.png"
+        ],
+        "description": "乳腺内见一大小约见边界清晰的囊性占位，呈无回声，内部回声均匀，形态规则，周围无明显浸润迹象，符合简单囊肿表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "You are an experienced ultrasound expert."
+            },
+            {
+                "from": "human",
+                "value": "<image>请概述一下图中的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一大小约见边界清晰的囊性占位，呈无回声，内部回声均匀，形态规则，周围无明显浸润迹象，符合简单囊肿表现。"
+            }
+        ]
+    },
+    {
+        "id": "20 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/20 Malignant Image.png"
+        ],
+        "description": "乳腺内可见一低回声结节，形态不规则，边界部分清晰部分模糊，内部回声不均，未见明显后方声增强或声影，周围组织结构未见明显受侵。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域权威，热心而专业，依据可靠证据，回应用户关切。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请描述一下图像所包含的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一低回声结节，形态不规则，边界部分清晰部分模糊，内部回声不均，未见明显后方声增强或声影，周围组织结构未见明显受侵。"
+            }
+        ]
+    },
+    {
+        "id": "21 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/21 Benign Image.png"
+        ],
+        "description": "乳腺内见一边界清晰、形态规则的无回声区，内部呈液性回声，周边回声均匀，考虑囊性病变可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域专家，耐心而严谨，依据可靠数据，为用户提供专业意见。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图展示了什么？请总结。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一边界清晰、形态规则的无回声区，内部呈液性回声，周边回声均匀，考虑囊性病变可能。"
+            }
+        ]
+    },
+    {
+        "id": "21 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/21 Malignant Image.png"
+        ],
+        "description": "乳腺区见大小不等多个呈不规则形态的低回声区，边界欠清，部分边界模糊，内部回声不均匀，周围组织回声增强，形态不规则，可能提示乳腺内实性或囊实混合性病变，建议结合临床及进一步检查评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你乐意助人，是值得信赖的超声健康顾问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能否根据超声图输出一段描述性文本？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见大小不等多个呈不规则形态的低回声区，边界欠清，部分边界模糊，内部回声不均匀，周围组织回声增强，形态不规则，可能提示乳腺内实性或囊实混合性病变，建议结合临床及进一步检查评估。"
+            }
+        ]
+    },
+    {
+        "id": "22 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/22 Benign Image.png"
+        ],
+        "description": "乳腺内可见一大小约3厘米不规则形低回声区，边界模糊，内部回声不均，周围脂肪组织回声增强，未见明显后方增强或衰减。考虑需结合临床及进一步影像学检查明确诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术专家，乐于用规范流程与科学证据，解答用户难题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>生成一段关于此超声图的叙述"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一大小约3厘米不规则形低回声区，边界模糊，内部回声不均，周围脂肪组织回声增强，未见明显后方增强或衰减。考虑需结合临床及进一步影像学检查明确诊断。"
+            }
+        ]
+    },
+    {
+        "id": "22 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/22 Malignant Image.png"
+        ],
+        "description": "乳腺组织内可见边界清晰、不规则形状的低回声区，内部回声不均匀，部分区呈无回声，边缘部分可见轻微后方声影，提示可能存在实性病变。周围组织结构清晰，无明显侵犯迹象。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声医学博士，耐心而严谨，依据最新指南，为用户解惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>撰写一段关于此超声图的专业解读。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内可见边界清晰、不规则形状的低回声区，内部回声不均匀，部分区呈无回声，边缘部分可见轻微后方声影，提示可能存在实性病变。周围组织结构清晰，无明显侵犯迹象。"
+            }
+        ]
+    },
+    {
+        "id": "23 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/23 Benign Image.png"
+        ],
+        "description": "乳腺内见一低回声区，形态不规则，边界不清，内部回声不均匀，伴有后方声影。周围组织回声改变，提示可能为恶性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声诊断行家，乐于用严密推理与可靠数据，提供精准解答。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请简述图中所见内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一低回声区，形态不规则，边界不清，内部回声不均匀，伴有后方声影。周围组织回声改变，提示可能为恶性病变。"
+            }
+        ]
+    },
+    {
+        "id": "23 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/23 Malignant Image.png"
+        ],
+        "description": "乳腺部位显示一呈不规则形态的低回声区，边界不清，内部回声不均，后方声影明显，提示可能为恶性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声诊断博士，乐于用科学方法与可靠数据，提供精准建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>概述图像所表达的信息。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺部位显示一呈不规则形态的低回声区，边界不清，内部回声不均，后方声影明显，提示可能为恶性病变。"
+            }
+        ]
+    },
+    {
+        "id": "24 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/24 Benign Image.png"
+        ],
+        "description": "乳腺内可见一低回声区，边界欠清，形态不规则，内部回声不均，后方出现声影。周围组织结构紊乱，提示病变可能具有侵犯性。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声医学助手，耐心解答，用系统化思路与规范标准，帮助用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>根据这张图生成超声描述语句。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一低回声区，边界欠清，形态不规则，内部回声不均，后方出现声影。周围组织结构紊乱，提示病变可能具有侵犯性。"
+            }
+        ]
+    },
+    {
+        "id": "24 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/24 Malignant Image.png"
+        ],
+        "description": "乳腺组织内见一不规则形态的低回声区，边界欠清晰，回声均匀，内部无明显强回声点，后方声影增强，提示可能为实性病变，需结合临床及进一步检查明确性质。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你愿意为用户效劳，是可靠的超声医疗顾问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中有什么？请用中文讲述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一不规则形态的低回声区，边界欠清晰，回声均匀，内部无明显强回声点，后方声影增强，提示可能为实性病变，需结合临床及进一步检查明确性质。"
+            }
+        ]
+    },
+    {
+        "id": "25 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/25 Benign Image.png"
+        ],
+        "description": "乳腺区见一椭圆形无回声区，边界清晰，内部均匀，提示可能为乳腺囊肿。周围组织回声均匀，未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声医学权威，严谨而细致，依据科学证据，为用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用中文描述超声图表现。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一椭圆形无回声区，边界清晰，内部均匀，提示可能为乳腺囊肿。周围组织回声均匀，未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "25 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/25 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形状低回声区，边界欠清，分叶状，内部回声不均，后方声影未明显见，周围组织回声未见明显改变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名专注于超声影像的医师，乐于用缜密思维与循证知识，解惑答疑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>把超声影像的内容转成文字描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形状低回声区，边界欠清，分叶状，内部回声不均，后方声影未明显见，周围组织回声未见明显改变。"
+            }
+        ]
+    },
+    {
+        "id": "26 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/26 Benign Image.png"
+        ],
+        "description": "乳腺内可见多个不规则形态的无回声区，边界清晰，内部回声均匀，周围组织结构未见明显异常，提示可能为乳腺囊性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声影像身份，乐于用专业方法与规范流程，解答用户健康困惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>把这张超声片的主要表现写出来。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见多个不规则形态的无回声区，边界清晰，内部回声均匀，周围组织结构未见明显异常，提示可能为乳腺囊性病变。"
+            }
+        ]
+    },
+    {
+        "id": "26 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/26 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形低回声区，内部回声不均匀，边界模糊，部分边缘出现小叶状结构，周围未见明显声影增强。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声影像专家，用科学方法与循证知识，确保答复经得起检验。"
+            },
+            {
+                "from": "human",
+                "value": "<image>撰写一段针对超声影像的文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形低回声区，内部回声不均匀，边界模糊，部分边缘出现小叶状结构，周围未见明显声影增强。"
+            }
+        ]
+    },
+    {
+        "id": "27 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/27 Benign Image.png"
+        ],
+        "description": "乳腺内见一低回声结节，形态不规则，边界模糊，内部回声不均匀，后方回声减弱，考虑可能为恶性病变，建议结合临床及进一步检查评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声诊断顾问，乐于用缜密逻辑与专业指南，帮助用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请说明图像所呈现的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一低回声结节，形态不规则，边界模糊，内部回声不均匀，后方回声减弱，考虑可能为恶性病变，建议结合临床及进一步检查评估。"
+            }
+        ]
+    },
+    {
+        "id": "27 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/27 Malignant Image.png"
+        ],
+        "description": "乳腺超声显示，病变位于乳腺组织内，呈不规则形态，边界欠清，部分区域回声不均，有低回声区伴有点状高回声，内部结构复杂，周围组织回声未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心而严谨的超声影像师，用循证方法，逐一回应用户问题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能讲讲图中呈现的内容吗？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声显示，病变位于乳腺组织内，呈不规则形态，边界欠清，部分区域回声不均，有低回声区伴有点状高回声，内部结构复杂，周围组织回声未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "28 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/28 Benign Image.png"
+        ],
+        "description": "乳腺内见一囊性病变，呈规则圆形，边界清晰，内部呈无回声，周围可见增强后方回声，符合单纯囊肿表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声诊断行家，乐于用严密推理与可靠数据，提供精准解答。"
+            },
+            {
+                "from": "human",
+                "value": "<image>画面里有什么？请详细描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性病变，呈规则圆形，边界清晰，内部呈无回声，周围可见增强后方回声，符合单纯囊肿表现。"
+            }
+        ]
+    },
+    {
+        "id": "28 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/28 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形回声区，边界欠清，内部回声较混杂，回声强弱不均，部分区域呈低回声。周围组织回声增粗，未见明显钙化及背声增强。提示可能为恶性病变或炎症性病变，建议结合临床及病理进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域专业人士，乐于用严谨理论与规范流程，帮助用户理解病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能否逐条列出画面中出现的主要对象？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形回声区，边界欠清，内部回声较混杂，回声强弱不均，部分区域呈低回声。周围组织回声增粗，未见明显钙化及背声增强。提示可能为恶性病变或炎症性病变，建议结合临床及病理进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "29 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/29 Benign Image.png"
+        ],
+        "description": "乳腺内见一不规则形低回声区，边界模糊，内部回声不均匀，部分区域呈液化状回声，周围组织回声模糊，提示可能为乳腺囊性病变伴复杂成分。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是用户可信赖的超声健康助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>撰写一段此超声图的说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形低回声区，边界模糊，内部回声不均匀，部分区域呈液化状回声，周围组织回声模糊，提示可能为乳腺囊性病变伴复杂成分。"
+            }
+        ]
+    },
+    {
+        "id": "29 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/29 Malignant Image.png"
+        ],
+        "description": "乳腺内发现一不规则形态病灶，病灶呈低回声，内部回声不均，有多发点状强回声光团，边界欠清，部分处模糊。周围组织回声未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术专家，乐于用规范流程与科学证据，解答用户难题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能否将此超声影像内容写成文字？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内发现一不规则形态病灶，病灶呈低回声，内部回声不均，有多发点状强回声光团，边界欠清，部分处模糊。周围组织回声未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "3 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/3 Benign Image.png"
+        ],
+        "description": "乳腺内见一大小约测量的囊性混合回声病灶，形态不规则，内部呈无回声及低回声区，边界欠清晰，周边可见部分高回声强化。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声科顾问，严谨而耐心，引用权威文献，确保每句答复可信。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请把超声照片所见转成文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一大小约测量的囊性混合回声病灶，形态不规则，内部呈无回声及低回声区，边界欠清晰，周边可见部分高回声强化。"
+            }
+        ]
+    },
+    {
+        "id": "3 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/3 Malignant Image.png"
+        ],
+        "description": "乳腺内见多个边界清晰的不规则低回声区，形态不规则，内部回声不均匀，部分区呈无回声，部分边缘呈类叶状，周围组织回声较均匀。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术顾问，始终以科学逻辑与规范流程，解答用户疑虑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文撰写超声扫描报告。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见多个边界清晰的不规则低回声区，形态不规则，内部回声不均匀，部分区呈无回声，部分边缘呈类叶状，周围组织回声较均匀。"
+            }
+        ]
+    },
+    {
+        "id": "30 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/30 Benign Image.png"
+        ],
+        "description": "乳腺组织内见一不规则形状的低回声区，边界不清，回声内部回声不均，周围组织回声界面模糊，考虑可能恶性病变，建议结合临床和其他影像学检查进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声专家立场，细致入微地、按循证逻辑，为用户提供值得信赖的医学解读。"
+            },
+            {
+                "from": "human",
+                "value": "<image>生成该超声影像的文字说明"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一不规则形状的低回声区，边界不清，回声内部回声不均，周围组织回声界面模糊，考虑可能恶性病变，建议结合临床和其他影像学检查进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "30 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/30 Malignant Image.png"
+        ],
+        "description": "乳腺超声图像显示在乳腺组织内可见一不规则形态的囊性病变，内部呈无回声，边界不清晰，部分边缘呈分叶状回声，周围组织回声较均匀。该病变提示可能为复杂性囊肿或其他囊性病变，建议结合临床及进一步检查明确诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像助手，热心助人，用系统化思维与循证指南，解答困惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图中可见什么？请描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像显示在乳腺组织内可见一不规则形态的囊性病变，内部呈无回声，边界不清晰，部分边缘呈分叶状回声，周围组织回声较均匀。该病变提示可能为复杂性囊肿或其他囊性病变，建议结合临床及进一步检查明确诊断。"
+            }
+        ]
+    },
+    {
+        "id": "31 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/31 Benign Image.png"
+        ],
+        "description": "乳腺组织内见一低回声区，边界不清，形态不规则，内部回声不均匀，伴有部分声影，周围组织回声增粗。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你热心于超声医疗服务，是可靠的助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>画面里出现了什么？请描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一低回声区，边界不清，形态不规则，内部回声不均匀，伴有部分声影，周围组织回声增粗。"
+            }
+        ]
+    },
+    {
+        "id": "31 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/31 Malignant Image.png"
+        ],
+        "description": "乳腺内可见一不规则形态的低回声区，内部回声不均匀，边界部分清晰，部分欠清，周围无明显回声增强或减弱。病变深度位于皮下至乳腺导管区，未见明显钙化点。本次影像提示需结合临床及进一步检查明确病变性质。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像博士，热心助人，用缜密逻辑与最新研究，解析病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>撰写一段针对超声检查的描述"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一不规则形态的低回声区，内部回声不均匀，边界部分清晰，部分欠清，周围无明显回声增强或减弱。病变深度位于皮下至乳腺导管区，未见明显钙化点。本次影像提示需结合临床及进一步检查明确病变性质。"
+            }
+        ]
+    },
+    {
+        "id": "32 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/32 Benign Image.png"
+        ],
+        "description": "乳腺内见一边界不清、形态不规则的低回声区，内部回声不均，有后方声影，周围组织回声略显模糊。病变可能为恶性肿块，建议进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声诊断专家，乐于用科学推理与规范准则，提供权威解答。"
+            },
+            {
+                "from": "human",
+                "value": "<image>撰写一段针对此超声图的说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一边界不清、形态不规则的低回声区，内部回声不均，有后方声影，周围组织回声略显模糊。病变可能为恶性肿块，建议进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "32 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/32 Malignant Image.png"
+        ],
+        "description": "乳腺组织内可见一不规则形态低回声病灶，边界不清，内部回声不均，周围伴有声影，未见明显囊性区，提示可能为恶性肿块，建议进一步诊断评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科顾问，严谨细致，遵循专业指南，帮助用户理解检查结果。"
+            },
+            {
+                "from": "human",
+                "value": "<image>给这张超声图像配一段描述性文本。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内可见一不规则形态低回声病灶，边界不清，内部回声不均，周围伴有声影，未见明显囊性区，提示可能为恶性肿块，建议进一步诊断评估。"
+            }
+        ]
+    },
+    {
+        "id": "33 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/33 Benign Image.png"
+        ],
+        "description": "乳腺内见一边界清晰、形态不规则的无回声区，内部回声均匀，后方伴有声透增强，病变周围有少许低回声，可见周边组织结构受压改变。该病灶无明显钙化灶，边界呈部分欠清晰，提示可能为囊性病变，需结合临床及进一步检查明确诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声影像导师，耐心解答，遵循最新标准，为用户提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用一句话总结此图最重要的发现。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一边界清晰、形态不规则的无回声区，内部回声均匀，后方伴有声透增强，病变周围有少许低回声，可见周边组织结构受压改变。该病灶无明显钙化灶，边界呈部分欠清晰，提示可能为囊性病变，需结合临床及进一步检查明确诊断。"
+            }
+        ]
+    },
+    {
+        "id": "33 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/33 Malignant Image.png"
+        ],
+        "description": "乳腺内见不规则形态低回声区，边界不清，内部回声不均匀，周围未见明显包膜，部分范围内有声影伴随，符合恶性病变超声表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像专家，以科学方法与规范准则，确保每句答复精准。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图展示了什么？请说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见不规则形态低回声区，边界不清，内部回声不均匀，周围未见明显包膜，部分范围内有声影伴随，符合恶性病变超声表现。"
+            }
+        ]
+    },
+    {
+        "id": "34 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/34 Benign Image.png"
+        ],
+        "description": "乳腺内见一呈椭圆形、低回声病灶，边界清晰，形态规整，声影未经明显增强。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声影像导师，耐心解答，遵循最新标准，为用户提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>对图中的内容进行简要解释。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一呈椭圆形、低回声病灶，边界清晰，形态规整，声影未经明显增强。"
+            }
+        ]
+    },
+    {
+        "id": "34 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/34 Malignant Image.png"
+        ],
+        "description": "乳腺内可见一低回声病灶，形态不规则，边界欠清，回声不均，伴后方声影，周围组织未见明显异常回声，提示可能为恶性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声科医师身份，热心助人，用系统化方法，帮助用户理解病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图里有什么？请详细说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一低回声病灶，形态不规则，边界欠清，回声不均，伴后方声影，周围组织未见明显异常回声，提示可能为恶性病变。"
+            }
+        ]
+    },
+    {
+        "id": "35 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/35 Benign Image.png"
+        ],
+        "description": "乳腺超声图像显示一圆形囊性病变，边界清晰，回声呈无回声，内部均匀，未见明显实性成分，周围组织回声正常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心而严谨的超声影像师，用循证方法，逐一回应用户问题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图中可见哪些关键细节？请逐一描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像显示一圆形囊性病变，边界清晰，回声呈无回声，内部均匀，未见明显实性成分，周围组织回声正常。"
+            }
+        ]
+    },
+    {
+        "id": "35 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/35 Malignant Image.png"
+        ],
+        "description": "乳腺内见不规则形态低回声病灶，边界不清，内部回声不均，有声影，周围组织结构受影响，提示可能恶性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你愿意帮助用户，是超声健康支持者。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像里有什么？请用中文讲述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见不规则形态低回声病灶，边界不清，内部回声不均，有声影，周围组织结构受影响，提示可能恶性病变。"
+            }
+        ]
+    },
+    {
+        "id": "36 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/36 Benign Image.png"
+        ],
+        "description": "乳腺内见一大小适中的囊性病变，形态规则，边界清晰，内部呈无回声，后方伴强化透声。周围组织回声均匀，未见明显异常钙化。该表现符合乳腺囊肿的超声特点。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科顾问，严谨细致，遵循专业指南，帮助用户理解检查结果。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请把超声图内容转化为描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一大小适中的囊性病变，形态规则，边界清晰，内部呈无回声，后方伴强化透声。周围组织回声均匀，未见明显异常钙化。该表现符合乳腺囊肿的超声特点。"
+            }
+        ]
+    },
+    {
+        "id": "36 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/36 Malignant Image.png"
+        ],
+        "description": "乳腺超声示左侧乳腺内见一不规则形态低回声区，边界部分模糊，内部回声不均匀，伴有后方声影，周围组织回声紊乱，提示病变可能具有侵袭性特点。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你愿意为用户效劳，是可靠的超声医疗顾问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中有什么？描述一下图像中的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声示左侧乳腺内见一不规则形态低回声区，边界部分模糊，内部回声不均匀，伴有后方声影，周围组织回声紊乱，提示病变可能具有侵袭性特点。"
+            }
+        ]
+    },
+    {
+        "id": "37 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/37 Benign Image.png"
+        ],
+        "description": "乳腺内见一不规则形低回声区，边界不清，内部回声不均匀，形态不规则，周边组织结构显示模糊，提示可能存在病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你担任超声医学指导者，遵循专业规范，用清晰思路，为用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>描述一下图里的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形低回声区，边界不清，内部回声不均匀，形态不规则，周边组织结构显示模糊，提示可能存在病变。"
+            }
+        ]
+    },
+    {
+        "id": "37 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/37 Malignant Image.png"
+        ],
+        "description": "乳腺内见一低回声区，形态不规则，边界部分模糊，内部回声不均，部分区域呈无回声，周围可见声影。考虑病变性质需结合临床及其他影像学检查进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声医学博士，耐心而严谨，依据最新指南，为用户解惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用医学语言概括此图所包含的结构与特征。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一低回声区，形态不规则，边界部分模糊，内部回声不均，部分区域呈无回声，周围可见声影。考虑病变性质需结合临床及其他影像学检查进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "38 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/38 Benign Image.png"
+        ],
+        "description": "乳腺组织内可见一个边界清晰、形态规则的囊性病变，呈无回声区，内部未见明显回声信号，后方有明显声增强。病变周围组织结构未见异常回声改变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像顾问，始终遵循专业准则，用清晰逻辑，回应用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用专业方式描述此超声片子"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内可见一个边界清晰、形态规则的囊性病变，呈无回声区，内部未见明显回声信号，后方有明显声增强。病变周围组织结构未见异常回声改变。"
+            }
+        ]
+    },
+    {
+        "id": "38 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/38 Malignant Image.png"
+        ],
+        "description": "乳腺内见一囊性病变，边界清晰，回声呈无回声，内部无明显混杂回声，后方声增强，符合囊肿表现。周围组织回声均匀，未见明显异常血流信号。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是用户可依靠的超声医疗小顾问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用几句话总结图中的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性病变，边界清晰，回声呈无回声，内部无明显混杂回声，后方声增强，符合囊肿表现。周围组织回声均匀，未见明显异常血流信号。"
+            }
+        ]
+    },
+    {
+        "id": "39 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/39 Benign Image.png"
+        ],
+        "description": "乳腺组织内见一呈不规则形态的低回声区，边界欠清，内部回声不均匀，部分区域回声较强，周围组织回声较为清晰。未见明显钙化强回声。病变周围未见明显边缘光环。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "You are an experienced ultrasound expert."
+            },
+            {
+                "from": "human",
+                "value": "<image>可否为这张超声图提供一段结构化说明？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一呈不规则形态的低回声区，边界欠清，内部回声不均匀，部分区域回声较强，周围组织回声较为清晰。未见明显钙化强回声。病变周围未见明显边缘光环。"
+            }
+        ]
+    },
+    {
+        "id": "39 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/39 Malignant Image.png"
+        ],
+        "description": "乳腺内见一囊性病变，边界清晰，形态不规则，内部呈无回声，病变内可见部分分隔和沉积物回声，周围组织回声均匀。提示囊内可能存在复杂成分。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声诊断权威立场，细致入微地、按循证原则，解答用户疑问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图中有什么？请用文字描绘。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性病变，边界清晰，形态不规则，内部呈无回声，病变内可见部分分隔和沉积物回声，周围组织回声均匀。提示囊内可能存在复杂成分。"
+            }
+        ]
+    },
+    {
+        "id": "4 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/4 Benign Image.png"
+        ],
+        "description": "乳腺内发现一不规则形态低回声区，边界尚清晰，内部回声不均匀，周围未见明显后方增强或声影，提示需进一步评估性质。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声医学助手，用逻辑严谨且贴合指南的方式，为用户提供权威解答。"
+            },
+            {
+                "from": "human",
+                "value": "<image>为此超声照片撰写一段说明文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内发现一不规则形态低回声区，边界尚清晰，内部回声不均匀，周围未见明显后方增强或声影，提示需进一步评估性质。"
+            }
+        ]
+    },
+    {
+        "id": "4 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/4 Malignant Image.png"
+        ],
+        "description": "乳腺超声显示乳腺内可见一个形态不规则的低回声病灶，内部回声不均匀，边界不清晰，病灶周围可见后方声影，提示病变可能为恶性。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像专家，乐于用系统思维与科学依据，解答用户困惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>把超声影像所见写成文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声显示乳腺内可见一个形态不规则的低回声病灶，内部回声不均匀，边界不清晰，病灶周围可见后方声影，提示病变可能为恶性。"
+            }
+        ]
+    },
+    {
+        "id": "40 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/40 Benign Image.png"
+        ],
+        "description": "乳腺内可见一囊性病灶，呈长圆形，内部均匀无回声，边界清晰，周围组织无明显异常回声，符合简单囊肿特征。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是用户可信赖的超声健康助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请描述图中的主要内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一囊性病灶，呈长圆形，内部均匀无回声，边界清晰，周围组织无明显异常回声，符合简单囊肿特征。"
+            }
+        ]
+    },
+    {
+        "id": "40 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/40 Malignant Image.png"
+        ],
+        "description": "乳腺皮下可见大小不一、形态不规则的多个低回声团块，边界欠清，部分团块边缘模糊，伴声影，内部回声不均匀，提示可能为乳腺恶性病变，需结合临床及进一步检查明确诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "身为超声医学行家，你乐于奉献，善用缜密思维与最新指南，精准解答用户疑虑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请描述一下图中的主要对象。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺皮下可见大小不一、形态不规则的多个低回声团块，边界欠清，部分团块边缘模糊，伴声影，内部回声不均匀，提示可能为乳腺恶性病变，需结合临床及进一步检查明确诊断。"
+            }
+        ]
+    },
+    {
+        "id": "41 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/41 Benign Image.png"
+        ],
+        "description": "乳腺实质区见一低回声结节，形态不规则，边界部分欠清，回声内部较均匀，周围可见少许回声增强。未见明显钙化。提示需进一步随访或组织学检查确认。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声医学助手，耐心解答，用系统化思路与规范标准，帮助用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>根据超声图像输出对应描述"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺实质区见一低回声结节，形态不规则，边界部分欠清，回声内部较均匀，周围可见少许回声增强。未见明显钙化。提示需进一步随访或组织学检查确认。"
+            }
+        ]
+    },
+    {
+        "id": "41 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/41 Malignant Image.png"
+        ],
+        "description": "乳腺组织内见多个不规则形态的低回声区，边界欠清，内部回声不均匀，部分区域伴有液性暗区，提示可能存在囊性及实性成分混合的病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声诊断顾问身份，条理清晰地引用规范，确保每句回复都可靠。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用医学报告格式写超声描述"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见多个不规则形态的低回声区，边界欠清，内部回声不均匀，部分区域伴有液性暗区，提示可能存在囊性及实性成分混合的病变。"
+            }
+        ]
+    },
+    {
+        "id": "42 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/42 Benign Image.png"
+        ],
+        "description": "乳腺内探见一囊性病变，呈圆形无回声区，边界清晰，周围组织回声均匀。囊腔内未见明显分隔和实性成分。无明显血流信号。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你热心于超声医疗服务，是可靠的助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文说明图像的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内探见一囊性病变，呈圆形无回声区，边界清晰，周围组织回声均匀。囊腔内未见明显分隔和实性成分。无明显血流信号。"
+            }
+        ]
+    },
+    {
+        "id": "42 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/42 Malignant Image.png"
+        ],
+        "description": "乳腺内见不规则形态低回声区，回声不均匀，边界欠清，部分边缘呈分叶状，内部可见加强透声影，周围未见明显包膜回声，提示可能为复杂性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声诊断顾问身份，条理清晰地引用规范，确保每句回复都可靠。"
+            },
+            {
+                "from": "human",
+                "value": "<image>为这张超声检查撰写说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见不规则形态低回声区，回声不均匀，边界欠清，部分边缘呈分叶状，内部可见加强透声影，周围未见明显包膜回声，提示可能为复杂性病变。"
+            }
+        ]
+    },
+    {
+        "id": "43 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/43 Benign Image.png"
+        ],
+        "description": "乳腺实质内见一不规则低回声区，边界欠清，部分内见条状回声，回声不均，周围组织回声紊乱，未见明显钙化。考虑可能为恶性病变，建议结合其他影像及临床资料进一步评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声影像导师，耐心解答，遵循最新标准，为用户提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用几句话描述图片的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺实质内见一不规则低回声区，边界欠清，部分内见条状回声，回声不均，周围组织回声紊乱，未见明显钙化。考虑可能为恶性病变，建议结合其他影像及临床资料进一步评估。"
+            }
+        ]
+    },
+    {
+        "id": "43 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/43 Malignant Image.png"
+        ],
+        "description": "乳腺组织中见一低回声区，形态不规则，边界模糊，内部回声不均，伴声影，界面不清晰。提示可能为恶性病变，建议结合临床及病理进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域专业人士，乐于用严谨理论与规范流程，帮助用户理解病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>概述图里的主要信息。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织中见一低回声区，形态不规则，边界模糊，内部回声不均，伴声影，界面不清晰。提示可能为恶性病变，建议结合临床及病理进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "44 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/44 Benign Image.png"
+        ],
+        "description": "乳腺内见一呈圆形无回声区，边界清晰，轮廓规则，后方增强明显，提示囊性病变可能。周围组织回声均匀，无明显异常血流。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声医学导师，恪守专业规范，为用户提供可靠的医学意见。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请描述一下这张图所展现的画面。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一呈圆形无回声区，边界清晰，轮廓规则，后方增强明显，提示囊性病变可能。周围组织回声均匀，无明显异常血流。"
+            }
+        ]
+    },
+    {
+        "id": "44 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/44 Malignant Image.png"
+        ],
+        "description": "乳腺内见一低回声区，边界不清，形态不规则，内部回声不均匀，部分区域伴有后方声影，周围乳腺组织回声模糊，提示可能存在恶性肿块，应结合临床及其他影像学检查进一步评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声医学顾问，耐心解答，遵循科学规范，为用户提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>根据该超声图撰写观察描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一低回声区，边界不清，形态不规则，内部回声不均匀，部分区域伴有后方声影，周围乳腺组织回声模糊，提示可能存在恶性肿块，应结合临床及其他影像学检查进一步评估。"
+            }
+        ]
+    },
+    {
+        "id": "45 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/45 Benign Image.png"
+        ],
+        "description": "乳腺超声图像显示乳腺内可见一不规则形状病灶，边界不清，内部回声杂乱，以低回声为主，部分区域回声不均，伴有后方回声减弱，提示病变可能为恶性。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "You are an experienced ultrasound expert."
+            },
+            {
+                "from": "human",
+                "value": "<image>请把超声扫描所见转成文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像显示乳腺内可见一不规则形状病灶，边界不清，内部回声杂乱，以低回声为主，部分区域回声不均，伴有后方回声减弱，提示病变可能为恶性。"
+            }
+        ]
+    },
+    {
+        "id": "45 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/45 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形态低回声区，边界欠清，内部回声不均匀，伴后方声影，符合恶性肿瘤特征。周围乳腺结构受压变形。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科资深专家，乐于用逻辑推理与专业文献，回应提问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请为此超声图输出一段医学描述"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态低回声区，边界欠清，内部回声不均匀，伴后方声影，符合恶性肿瘤特征。周围乳腺结构受压变形。"
+            }
+        ]
+    },
+    {
+        "id": "46 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/46 Benign Image.png"
+        ],
+        "description": "乳腺实质内见一大小约XX毫米（需实际测量）的低回声结节，形态呈不规则或椭圆形，边界欠清，部分内部回声均匀，伴有声影或回声增强，周围乳腺组织结构尚清晰。提示需结合临床及进一步影像学检查以明确诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你专属于用户，是专属的超声医疗支持人员。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图中有什么？请简要描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺实质内见一大小约XX毫米（需实际测量）的低回声结节，形态呈不规则或椭圆形，边界欠清，部分内部回声均匀，伴有声影或回声增强，周围乳腺组织结构尚清晰。提示需结合临床及进一步影像学检查以明确诊断。"
+            }
+        ]
+    },
+    {
+        "id": "46 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/46 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形态的低回声区，内部回声杂乱，边界欠清，部分区域显示后方声影，周围组织结构紊乱。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你愿意做用户身边的超声健康守护助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>给此超声影像配一段文字说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态的低回声区，内部回声杂乱，边界欠清，部分区域显示后方声影，周围组织结构紊乱。"
+            }
+        ]
+    },
+    {
+        "id": "47 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/47 Benign Image.png"
+        ],
+        "description": "乳腺内见一不规则形状的低回声区，边界欠清，内部回声不均匀，未见明显钙化，周围组织回声受压。考虑病变性质需结合临床及进一步检查评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你专注于超声健康咨询，是贴心的人。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中有什么？请简要讲述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形状的低回声区，边界欠清，内部回声不均匀，未见明显钙化，周围组织回声受压。考虑病变性质需结合临床及进一步检查评估。"
+            }
+        ]
+    },
+    {
+        "id": "47 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/47 Malignant Image.png"
+        ],
+        "description": "乳腺内见一大小约为中等的囊性病变，形态规则，边界清晰，内部呈无回声，周围组织回声均匀。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是用户可信赖的超声健康助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>需要一段针对该超声检查的叙述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一大小约为中等的囊性病变，形态规则，边界清晰，内部呈无回声，周围组织回声均匀。"
+            }
+        ]
+    },
+    {
+        "id": "48 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/48 Benign Image.png"
+        ],
+        "description": "乳腺内见一呈圆形或类圆形无回声区，边界清晰，内部回声均匀，周围无明显强化，符合囊性病变特征。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心助人的超声医师，用逻辑严密的方法，确保答复准确可靠。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请告诉我这张图里有什么。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一呈圆形或类圆形无回声区，边界清晰，内部回声均匀，周围无明显强化，符合囊性病变特征。"
+            }
+        ]
+    },
+    {
+        "id": "48 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/48 Malignant Image.png"
+        ],
+        "description": "乳腺区见一不规则形状无回声区，内可见少量散在回声，边界不清，部分边缘呈模糊状，周围伴少许增强后波，提示可能为囊性病变或液体积聚。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是专门为用户服务的超声医疗小帮手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中包含了哪些细节？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一不规则形状无回声区，内可见少量散在回声，边界不清，部分边缘呈模糊状，周围伴少许增强后波，提示可能为囊性病变或液体积聚。"
+            }
+        ]
+    },
+    {
+        "id": "49 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/49 Benign Image.png"
+        ],
+        "description": "乳腺内见一囊性病变，呈无回声，形态规则，边界明确，后方声增强。周围组织回声均匀，无明显异常血流信号。考虑良性囊肿可能性较大。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域专业人士，乐于用严谨理论与规范流程，帮助用户理解病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用医学语言描述这张超声影像"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性病变，呈无回声，形态规则，边界明确，后方声增强。周围组织回声均匀，无明显异常血流信号。考虑良性囊肿可能性较大。"
+            }
+        ]
+    },
+    {
+        "id": "49 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/49 Malignant Image.png"
+        ],
+        "description": "乳腺组织内见一不规则低回声区，边界不清晰，内部回声不均匀，部分区域呈无回声，伴有轻度后方声影。病变轮廓较模糊，界限欠清，提示可能为恶性病变或炎症性病变，建议结合临床和进一步检查评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科顾问，严谨细致，遵循专业指南，帮助用户理解检查结果。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请生成一段针对该超声图的解读。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一不规则低回声区，边界不清晰，内部回声不均匀，部分区域呈无回声，伴有轻度后方声影。病变轮廓较模糊，界限欠清，提示可能为恶性病变或炎症性病变，建议结合临床和进一步检查评估。"
+            }
+        ]
+    },
+    {
+        "id": "5 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/5 Benign Image.png"
+        ],
+        "description": "乳腺区见一低回声团块，形态不规则，边界欠清，内部回声不均匀，后方声影明显，周围组织结构受侵犯。考虑恶性病变可能。建议结合临床及进一步影像学、病理检查明确诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声医学导师，用条理清晰的循证思路，耐心解答用户困惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图中有什么？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一低回声团块，形态不规则，边界欠清，内部回声不均匀，后方声影明显，周围组织结构受侵犯。考虑恶性病变可能。建议结合临床及进一步影像学、病理检查明确诊断。"
+            }
+        ]
+    },
+    {
+        "id": "5 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/5 Malignant Image.png"
+        ],
+        "description": "乳腺实质内见一个边界较清晰的混合回声病灶，内部回声不均，部分区域呈低回声，形态不规则，边缘见不规则分叶状，病灶内部可见部分无回声区，未见明显后方声增强或声影。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是用户专属的超声健康支持助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请撰写一段该超声影像摘要。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺实质内见一个边界较清晰的混合回声病灶，内部回声不均，部分区域呈低回声，形态不规则，边缘见不规则分叶状，病灶内部可见部分无回声区，未见明显后方声增强或声影。"
+            }
+        ]
+    },
+    {
+        "id": "50 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/50 Benign Image.png"
+        ],
+        "description": "乳腺内见一囊性病变，边界清晰，形态规则，内呈无回声区，周围有薄壁回声，未见明显内部血流信号，符合良性囊肿表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名专注于超声影像的医师，乐于用缜密思维与循证知识，解惑答疑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>为这张超声图生成结构化描述"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性病变，边界清晰，形态规则，内呈无回声区，周围有薄壁回声，未见明显内部血流信号，符合良性囊肿表现。"
+            }
+        ]
+    },
+    {
+        "id": "50 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/50 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则低回声区，边界欠清，形态不规则，内部回声不均，周围组织回声紊乱，提示可能的恶性病变，建议结合临床及其他影像检查进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为用户的超声健康顾问，乐意为其提供帮助。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用专业口吻描述这张超声片子。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则低回声区，边界欠清，形态不规则，内部回声不均，周围组织回声紊乱，提示可能的恶性病变，建议结合临床及其他影像检查进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "51 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/51 Benign Image.png"
+        ],
+        "description": "乳腺内见一大小适中的低回声包块，边界清晰，形态呈类圆形，内部回声不均匀，未见明显后方声增强或声影，包块周围无明显浸润征象。整体提示良性病变可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域行家，恪守循证医学，为用户提供精准可信的答复。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用专业术语撰写超声描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一大小适中的低回声包块，边界清晰，形态呈类圆形，内部回声不均匀，未见明显后方声增强或声影，包块周围无明显浸润征象。整体提示良性病变可能。"
+            }
+        ]
+    },
+    {
+        "id": "51 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/51 Malignant Image.png"
+        ],
+        "description": "乳腺区见一不均质低回声区，边界不清，形态不规则，回声内伴有弱回声团，后方回声衰减明显，周围组织结构模糊。建议结合临床及其他影像学检查进一步评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心而严谨的超声影像师，用循证方法，逐一回应用户问题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图里有哪些信息？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一不均质低回声区，边界不清，形态不规则，回声内伴有弱回声团，后方回声衰减明显，周围组织结构模糊。建议结合临床及其他影像学检查进一步评估。"
+            }
+        ]
+    },
+    {
+        "id": "52 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/52 Benign Image.png"
+        ],
+        "description": "乳腺区域见一边界尚清晰、形态不规则的低回声病灶，内部回声混杂，伴部分声影，周围未见明显包膜，回声均质性减低，提示可能为恶性肿瘤。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你乐于以超声医疗支持者身份效劳。"
+            },
+            {
+                "from": "human",
+                "value": "<image>画面里有什么？请用中文描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区域见一边界尚清晰、形态不规则的低回声病灶，内部回声混杂，伴部分声影，周围未见明显包膜，回声均质性减低，提示可能为恶性肿瘤。"
+            }
+        ]
+    },
+    {
+        "id": "52 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/52 Malignant Image.png"
+        ],
+        "description": "乳腺超声图像示，见一囊性病变，位于乳腺实质内。病变呈无回声，内部均匀，边界清晰，形态规则，后方见明显增强回声。提示为良性囊肿可能性较大。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你乐于以超声健康小帮手的身份效劳。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请为这张超声照片配文字说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像示，见一囊性病变，位于乳腺实质内。病变呈无回声，内部均匀，边界清晰，形态规则，后方见明显增强回声。提示为良性囊肿可能性较大。"
+            }
+        ]
+    },
+    {
+        "id": "53 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/53 Benign Image.png"
+        ],
+        "description": "乳腺内见一直径约6毫米的圆形无回声区，边界清晰，形态规则，未见明显血流信号，考虑囊性病变可能。周围组织回声均匀，未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声医学身份，细致入微地、循证地，帮助用户理解检查结果。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能否根据这张超声图输出相应的文字说明？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一直径约6毫米的圆形无回声区，边界清晰，形态规则，未见明显血流信号，考虑囊性病变可能。周围组织回声均匀，未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "53 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/53 Malignant Image.png"
+        ],
+        "description": "乳腺内可见一规则形态、边界清晰的无回声区，内部回声均匀，伴有声影，考虑囊性病变可能。周围组织未见明显异常回声。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声科专家身份，耐心细致地、按循证标准，解答每一个提问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中包含了什么？请简述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一规则形态、边界清晰的无回声区，内部回声均匀，伴有声影，考虑囊性病变可能。周围组织未见明显异常回声。"
+            }
+        ]
+    },
+    {
+        "id": "54 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/54 Benign Image.png"
+        ],
+        "description": "乳腺内见一边界清晰的囊性病变，形态规则，回声呈无回声，内部可见散在弱回声点，囊壁较薄且均匀，周围乳腺组织回声未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声医学助手，严谨而耐心，依据循证指南，为用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图中有什么？请用中文讲述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一边界清晰的囊性病变，形态规则，回声呈无回声，内部可见散在弱回声点，囊壁较薄且均匀，周围乳腺组织回声未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "54 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/54 Malignant Image.png"
+        ],
+        "description": "乳腺区见一明显环状低回声灶，内部呈无回声区，边界清晰，形态规则，后方出现明显声透射增强，提示囊性病变可能。周围组织回声均匀，无明显异常回声。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声诊断顾问，乐于用缜密逻辑与专业指南，帮助用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能否生成一段该超声图的观察报告？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一明显环状低回声灶，内部呈无回声区，边界清晰，形态规则，后方出现明显声透射增强，提示囊性病变可能。周围组织回声均匀，无明显异常回声。"
+            }
+        ]
+    },
+    {
+        "id": "55 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/55 Benign Image.png"
+        ],
+        "description": "乳腺内见一类圆形无回声区，边界清晰，包膜完整，内部未见明显内部回声，轮廓规整，回声均匀，提示囊性病变可能性大。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声科顾问，严谨而耐心，引用权威文献，确保每句答复可信。"
+            },
+            {
+                "from": "human",
+                "value": "<image>画面里有哪些内容？简单描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一类圆形无回声区，边界清晰，包膜完整，内部未见明显内部回声，轮廓规整，回声均匀，提示囊性病变可能性大。"
+            }
+        ]
+    },
+    {
+        "id": "55 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/55 Malignant Image.png"
+        ],
+        "description": "乳腺内可见一较大不规则形态的无回声区，边界不清，周围见回声增强，后方声影明显。该病变提示为囊性病变，需结合临床及进一步检查明确诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "作为超声医疗协助者，你为用户服务。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用简洁语言描述这张超声影像。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一较大不规则形态的无回声区，边界不清，周围见回声增强，后方声影明显。该病变提示为囊性病变，需结合临床及进一步检查明确诊断。"
+            }
+        ]
+    },
+    {
+        "id": "56 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/56 Benign Image.png"
+        ],
+        "description": "乳腺内可见一低回声区，形态呈囊性，边界清晰，内部无回声，可能为囊肿。周围组织回声均匀，无明显异常血流信号。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声诊断专家立场，乐于用最新标准与科学推理，回应用户问题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请基于这张超声照片写说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一低回声区，形态呈囊性，边界清晰，内部无回声，可能为囊肿。周围组织回声均匀，无明显异常血流信号。"
+            }
+        ]
+    },
+    {
+        "id": "56 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/56 Malignant Image.png"
+        ],
+        "description": "乳腺内可见一不规则形态低回声区，边界不清，形态不规则，伴声影。周围组织回声增粗。提示病变具有侵袭性特点，建议结合临床及病理进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声影像权威，热心而严谨，依据可靠证据，逐一解答用户疑问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用专业术语描述超声影像。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一不规则形态低回声区，边界不清，形态不规则，伴声影。周围组织回声增粗。提示病变具有侵袭性特点，建议结合临床及病理进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "57 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/57 Benign Image.png"
+        ],
+        "description": "乳腺内见一不规则低回声区，边界欠清，内部回声不均，周围未见明显包膜形成，回声强度较周围组织明显降低，伴声影改变。提示需进一步鉴别病变性质。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声影像身份，乐于用专业方法与规范流程，解答用户健康困惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用中文描述该超声扫描的所见"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则低回声区，边界欠清，内部回声不均，周围未见明显包膜形成，回声强度较周围组织明显降低，伴声影改变。提示需进一步鉴别病变性质。"
+            }
+        ]
+    },
+    {
+        "id": "57 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/57 Malignant Image.png"
+        ],
+        "description": "乳腺实质内见一明显低回声区，边界清晰，形态不规则，内部回声均质，考虑囊性病变可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声诊断博士，乐于用科学方法与可靠数据，提供精准建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用中文描述这张超声影像所见。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺实质内见一明显低回声区，边界清晰，形态不规则，内部回声均质，考虑囊性病变可能。"
+            }
+        ]
+    },
+    {
+        "id": "58 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/58 Benign Image.png"
+        ],
+        "description": "乳腺组织内见一不规则形态病变，边界模糊，回声不均，有低回声区，病变内未见明显钙化，内部回声呈不均匀分布，周围组织回声较为正常。需结合临床进一步评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域行家，恪守循证医学，为用户提供精准可信的答复。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用医学报告风格描述此超声图。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一不规则形态病变，边界模糊，回声不均，有低回声区，病变内未见明显钙化，内部回声呈不均匀分布，周围组织回声较为正常。需结合临床进一步评估。"
+            }
+        ]
+    },
+    {
+        "id": "58 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/58 Malignant Image.png"
+        ],
+        "description": "乳腺内见一椭圆形低回声区，边界清晰，稍欠均匀，形态规则。病变内伴有明显后方声影，符合典型钙化或纤维组织增生表现，提示良性可能性大。周围组织回声无明显异常。建议结合临床及病史进一步评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你站在超声影像前沿，用缜密推演与规范准则，确保每句答复都经得起推敲。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图里有什么？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一椭圆形低回声区，边界清晰，稍欠均匀，形态规则。病变内伴有明显后方声影，符合典型钙化或纤维组织增生表现，提示良性可能性大。周围组织回声无明显异常。建议结合临床及病史进一步评估。"
+            }
+        ]
+    },
+    {
+        "id": "59 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/59 Benign Image.png"
+        ],
+        "description": "乳腺组织内可见一不规则形状低回声区，内部回声不均，边界模糊且毛刺状，周围乳腺结构紊乱，提示可能为恶性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声诊断行家，乐于用严密推理与可靠数据，提供精准解答。"
+            },
+            {
+                "from": "human",
+                "value": "<image>为这张超声扫描撰写一段记录"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内可见一不规则形状低回声区，内部回声不均，边界模糊且毛刺状，周围乳腺结构紊乱，提示可能为恶性病变。"
+            }
+        ]
+    },
+    {
+        "id": "59 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/59 Malignant Image.png"
+        ],
+        "description": "乳腺内见一边界不清、不规则的低回声病灶，内部可见不均匀回声及回声增强，周围未见明显包膜，部分边缘模糊，形态不规则，考虑需进一步诊断鉴别。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声诊断行家，以清晰逻辑与循证原则，提供精准的医学解释。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请详细说明这张图片里呈现了哪些内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一边界不清、不规则的低回声病灶，内部可见不均匀回声及回声增强，周围未见明显包膜，部分边缘模糊，形态不规则，考虑需进一步诊断鉴别。"
+            }
+        ]
+    },
+    {
+        "id": "6 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/6 Benign Image.png"
+        ],
+        "description": "乳腺超声图像显示，乳腺内见一规则圆形无回声区，边界清晰，后方回声增强，提示囊性病变可能。周围组织回声均匀。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心助人的超声医师，用逻辑严密的方法，确保答复准确可靠。"
+            },
+            {
+                "from": "human",
+                "value": "<image>帮我用中文详细描述这张超声图。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像显示，乳腺内见一规则圆形无回声区，边界清晰，后方回声增强，提示囊性病变可能。周围组织回声均匀。"
+            }
+        ]
+    },
+    {
+        "id": "6 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/6 Malignant Image.png"
+        ],
+        "description": "乳腺组织内见一欠均匀低回声区，形态不规则，边界模糊，内部回声不均，部分区域回声缺失，周围见声影，考虑恶性病变可能性较大。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一位随时应答的超声医疗小助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文概括图像信息。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一欠均匀低回声区，形态不规则，边界模糊，内部回声不均，部分区域回声缺失，周围见声影，考虑恶性病变可能性较大。"
+            }
+        ]
+    },
+    {
+        "id": "60 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/60 Benign Image.png"
+        ],
+        "description": "乳腺内见一低回声结节，形态呈圆形，边界清晰，后方声影明显，内部回声均匀。符合囊性病变表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声医学导师，恪守专业规范，为用户提供可靠的医学意见。"
+            },
+            {
+                "from": "human",
+                "value": "<image>麻烦你帮我给这张超声片子写个描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一低回声结节，形态呈圆形，边界清晰，后方声影明显，内部回声均匀。符合囊性病变表现。"
+            }
+        ]
+    },
+    {
+        "id": "60 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/60 Malignant Image.png"
+        ],
+        "description": "乳腺组织内见一条形无回声区，边界清晰，形态规则，回声均匀，大小约为所示尺寸，符合囊性结构表现。周围乳腺实质未见明显异常回声。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术顾问，严谨而专业，依据可靠数据，提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>需要一段针对该超声图的医学描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一条形无回声区，边界清晰，形态规则，回声均匀，大小约为所示尺寸，符合囊性结构表现。周围乳腺实质未见明显异常回声。"
+            }
+        ]
+    },
+    {
+        "id": "61 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/61 Benign Image.png"
+        ],
+        "description": "乳腺内见一不规则形态病灶，呈低回声，边界不清晰，周边回声未见明显增强，周围组织结构受压改变，提示可能为恶性病变，建议结合临床及病理进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声医学导师，用条理清晰的循证思路，耐心解答用户困惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请为此超声照片撰写观察摘要"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态病灶，呈低回声，边界不清晰，周边回声未见明显增强，周围组织结构受压改变，提示可能为恶性病变，建议结合临床及病理进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "61 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/61 Malignant Image.png"
+        ],
+        "description": "乳腺区见一不规则低回声病灶，内部回声不均，边界欠清，部分轮廓模糊，周围组织回声略显不均。病灶呈明显低回声，形态不规则，提示需结合临床及进一步影像学检查以明确性质。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科资深专家，乐于用逻辑推理与专业文献，回应提问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用医学术语描述这张超声照片。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一不规则低回声病灶，内部回声不均，边界欠清，部分轮廓模糊，周围组织回声略显不均。病灶呈明显低回声，形态不规则，提示需结合临床及进一步影像学检查以明确性质。"
+            }
+        ]
+    },
+    {
+        "id": "62 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/62 Benign Image.png"
+        ],
+        "description": "乳腺区域可见一较大低回声区，形态不规则，边界部分模糊，内部回声不均，伴有部分点状强回声，未见明显后方增强或声影，周围组织结构显示不清。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声影像顾问，耐心而系统，依据最新研究，为用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图展示了什么内容？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区域可见一较大低回声区，形态不规则，边界部分模糊，内部回声不均，伴有部分点状强回声，未见明显后方增强或声影，周围组织结构显示不清。"
+            }
+        ]
+    },
+    {
+        "id": "62 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/62 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形态的无回声区，边界欠清，内见少量回声回声，后方明显声暗区，周围组织结构紊乱，提示可能为恶性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像专家，以科学方法与规范准则，确保每句答复精准。"
+            },
+            {
+                "from": "human",
+                "value": "<image>生成一段该超声照片的描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态的无回声区，边界欠清，内见少量回声回声，后方明显声暗区，周围组织结构紊乱，提示可能为恶性病变。"
+            }
+        ]
+    },
+    {
+        "id": "63 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/63 Benign Image.png"
+        ],
+        "description": "乳腺内见一囊性病变，呈圆形或卵圆形，边界清晰，内部呈无回声，后方有明显声增强。周围乳腺组织回声均匀，无明显浸润。符合乳腺囊肿超声表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声科身份，热心助人，用循证思维与最新研究，回应用户关切。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用一句话概括图像的要点。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性病变，呈圆形或卵圆形，边界清晰，内部呈无回声，后方有明显声增强。周围乳腺组织回声均匀，无明显浸润。符合乳腺囊肿超声表现。"
+            }
+        ]
+    },
+    {
+        "id": "63 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/63 Malignant Image.png"
+        ],
+        "description": "乳腺内见一圆形低回声结节，形态规整，边界清晰，周围无明显血流信号，内部回声均匀，未见明显钙化灶。周围组织结构完整，未见浸润表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科指导者，热心服务，以系统思维与规范标准，帮助用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这幅影像展示了什么？请从整体到局部进行说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一圆形低回声结节，形态规整，边界清晰，周围无明显血流信号，内部回声均匀，未见明显钙化灶。周围组织结构完整，未见浸润表现。"
+            }
+        ]
+    },
+    {
+        "id": "64 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/64 Benign Image.png"
+        ],
+        "description": "乳腺内见1个边界清晰、形态规则的低回声团块，内部回声均匀，后方回声增强，周围未见异常血流信号，未见明显浸润周围组织表现。考虑为良性占位性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域行家，恪守循证医学，为用户提供精准可信的答复。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用医学报告描述超声图。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见1个边界清晰、形态规则的低回声团块，内部回声均匀，后方回声增强，周围未见异常血流信号，未见明显浸润周围组织表现。考虑为良性占位性病变。"
+            }
+        ]
+    },
+    {
+        "id": "64 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/64 Malignant Image.png"
+        ],
+        "description": "乳腺实质内见大小不一的低回声结节，边界欠光整，部分区域回声不均匀，未见明显后方增强或声影，周围组织回声未见明显改变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声科医师身份，热心助人，用系统化方法，帮助用户理解病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请说明图像所呈现的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺实质内见大小不一的低回声结节，边界欠光整，部分区域回声不均匀，未见明显后方增强或声影，周围组织回声未见明显改变。"
+            }
+        ]
+    },
+    {
+        "id": "65 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/65 Benign Image.png"
+        ],
+        "description": "乳腺内见一规则、边界清晰的囊性病变，呈无回声，内部回声均匀，后方有明显的声透增强，提示为典型囊性结构。周围组织回声均匀，未见明显异常高回声或低回声区域。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术顾问，严谨而专业，依据可靠数据，提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文总结这张超声图。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一规则、边界清晰的囊性病变，呈无回声，内部回声均匀，后方有明显的声透增强，提示为典型囊性结构。周围组织回声均匀，未见明显异常高回声或低回声区域。"
+            }
+        ]
+    },
+    {
+        "id": "65 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/65 Malignant Image.png"
+        ],
+        "description": "超声图像显示乳腺内见一低回声区，形态不规则，边界不清，内部回声不均匀，伴有后方声影。周围组织未见明显异常回声。提示乳腺病变，建议结合临床及其他检查进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声诊断行家，恪守循证医学，为用户提供权威而清晰的解释。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请把这张超声成像的内容文字化。"
+            },
+            {
+                "from": "gpt",
+                "value": "超声图像显示乳腺内见一低回声区，形态不规则，边界不清，内部回声不均匀，伴有后方声影。周围组织未见明显异常回声。提示乳腺病变，建议结合临床及其他检查进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "66 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/66 Benign Image.png"
+        ],
+        "description": "乳腺组织内见边界尚清晰的不均质低回声区，内部回声不均，部分区域回声较弱，伴有边缘呈毛刺状。病变后方声影较明显，形态不规则，提示可能为恶性病变征象。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你乐意助人，是值得信赖的超声健康顾问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请概述一下图中的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见边界尚清晰的不均质低回声区，内部回声不均，部分区域回声较弱，伴有边缘呈毛刺状。病变后方声影较明显，形态不规则，提示可能为恶性病变征象。"
+            }
+        ]
+    },
+    {
+        "id": "66 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/66 Malignant Image.png"
+        ],
+        "description": "乳腺区见一不规则形态低回声区，边界部分不清，内部回声不均匀，伴声影，大小约28毫米。周围组织回声尚均匀。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "用户可把你当作超声健康小秘书。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用医学报告格式写超声描述"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一不规则形态低回声区，边界部分不清，内部回声不均匀，伴声影，大小约28毫米。周围组织回声尚均匀。"
+            }
+        ]
+    },
+    {
+        "id": "67 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/67 Benign Image.png"
+        ],
+        "description": "乳腺组织内见一包块，形态规则，边界清晰，呈不均匀低回声，内部见部分点状高回声，回声均质性较差，后方声影欠明显。无明显周围组织浸润。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是热心助人的超声医疗小秘书。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能否生成一段该超声图的观察报告？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一包块，形态规则，边界清晰，呈不均匀低回声，内部见部分点状高回声，回声均质性较差，后方声影欠明显。无明显周围组织浸润。"
+            }
+        ]
+    },
+    {
+        "id": "67 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/67 Malignant Image.png"
+        ],
+        "description": "乳腺区见一不规则形态病灶，内部呈低回声，回声不均匀，边界欠清，部分边缘呈毛刺状，周围回声未见明显增强，血流未见显著增加。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像顾问，始终遵循专业准则，用清晰逻辑，回应用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请为此超声照片撰写观察摘要"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一不规则形态病灶，内部呈低回声，回声不均匀，边界欠清，部分边缘呈毛刺状，周围回声未见明显增强，血流未见显著增加。"
+            }
+        ]
+    },
+    {
+        "id": "68 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/68 Benign Image.png"
+        ],
+        "description": "乳腺内见一囊性病变，呈无回声，边界清晰，形态规则，后方声增强明显，周围组织无明显异常回声。符合单纯囊肿表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声科专家角色，严谨细致，依据专业指南，为用户梳理疑点。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用医学语言概括此图所包含的结构与特征。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性病变，呈无回声，边界清晰，形态规则，后方声增强明显，周围组织无明显异常回声。符合单纯囊肿表现。"
+            }
+        ]
+    },
+    {
+        "id": "68 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/68 Malignant Image.png"
+        ],
+        "description": "乳腺内见多房性囊性病变，病变边界清晰，囊壁较均匀，内见无回声区，囊腔呈多房分隔，囊腔内未见明显实性回声，周围组织回声均匀。提示为多房性囊肿表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你乐意助人，是值得信赖的超声健康顾问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这幅影像展示了什么？请从整体到局部进行说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见多房性囊性病变，病变边界清晰，囊壁较均匀，内见无回声区，囊腔呈多房分隔，囊腔内未见明显实性回声，周围组织回声均匀。提示为多房性囊肿表现。"
+            }
+        ]
+    },
+    {
+        "id": "69 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/69 Benign Image.png"
+        ],
+        "description": "乳腺内见一大小约为约中等的囊性病变，呈明显无回声区，形态规则，边界清晰，后方可见增强回声，提示囊性结构，周围组织未见明显浸润或异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声医学助手，耐心解答，用系统化思路与规范标准，帮助用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用专业方式描述此超声片子"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一大小约为约中等的囊性病变，呈明显无回声区，形态规则，边界清晰，后方可见增强回声，提示囊性结构，周围组织未见明显浸润或异常。"
+            }
+        ]
+    },
+    {
+        "id": "69 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/69 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形态低回声区，边界不清，回声不均，周围可见模糊回声带，边缘呈不规则分叶状，内部未见明显强回声点或钙化，内部回声呈无回声或低回声特征，病变后方未见明显声增强，提示病变可能具有侵袭性。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术专家，以循证思维与规范流程，解答每个医学问题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用医学报告风格描述此超声图。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态低回声区，边界不清，回声不均，周围可见模糊回声带，边缘呈不规则分叶状，内部未见明显强回声点或钙化，内部回声呈无回声或低回声特征，病变后方未见明显声增强，提示病变可能具有侵袭性。"
+            }
+        ]
+    },
+    {
+        "id": "7 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/7 Benign Image.png"
+        ],
+        "description": "乳腺内见一囊性病变，边界清晰，形态规则，内部呈无回声，后方可见声增强，周围组织未见明显异常回声。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "You are a professional ultrasound clinician."
+            },
+            {
+                "from": "human",
+                "value": "<image>请用医学口吻描述这张影像。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性病变，边界清晰，形态规则，内部呈无回声，后方可见声增强，周围组织未见明显异常回声。"
+            }
+        ]
+    },
+    {
+        "id": "7 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/7 Malignant Image.png"
+        ],
+        "description": "乳腺内见一低回声肿块，形态不规则，边界欠清晰，内部回声均质，后方回声衰减明显。周围组织回声无明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "作为超声医疗协助者，你为用户服务。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文概括这张超声图的内容"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一低回声肿块，形态不规则，边界欠清晰，内部回声均质，后方回声衰减明显。周围组织回声无明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "70 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/70 Benign Image.png"
+        ],
+        "description": "乳腺区见一低回声区，边界较清晰，形态不规则，内部回声不均匀，可见多个隔片分隔，内部局部区域镜面回声增强。周围未见明显血流信号。该病变特点提示可能为乳腺囊性包裹性病变，建议结合临床进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声诊断专家立场，逻辑严密地引用证据，确保每句答复都准确。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用文字描绘图里的主要信息。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一低回声区，边界较清晰，形态不规则，内部回声不均匀，可见多个隔片分隔，内部局部区域镜面回声增强。周围未见明显血流信号。该病变特点提示可能为乳腺囊性包裹性病变，建议结合临床进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "70 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/70 Malignant Image.png"
+        ],
+        "description": "乳腺内见一低回声区，形态不规则，边界欠清，内部回声不均匀，未见明显后方声影，邻近组织回声未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你专属于用户，是专属的超声医疗支持人员。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这幅图里出现了什么？请用文字描绘画面。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一低回声区，形态不规则，边界欠清，内部回声不均匀，未见明显后方声影，邻近组织回声未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "71 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/71 Benign Image.png"
+        ],
+        "description": "乳腺内见一囊性低回声病灶，形态规则，边界清晰，后方出现良好透声，提示为单发囊性结构。周围组织回声均匀，无明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声科专家身份，细致入微地、按最新指南，帮助用户理解影像结果。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请为这张超声照片配文字说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性低回声病灶，形态规则，边界清晰，后方出现良好透声，提示为单发囊性结构。周围组织回声均匀，无明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "71 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/71 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形态低回声病灶，边界欠清，内部回声不均，周围未见明显回声增强或减弱，未见明显钙化。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声专家立场，细致入微地、按循证逻辑，为用户提供值得信赖的医学解读。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张超声图像，麻烦生成对应的描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态低回声病灶，边界欠清，内部回声不均，周围未见明显回声增强或减弱，未见明显钙化。"
+            }
+        ]
+    },
+    {
+        "id": "72 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/72 Benign Image.png"
+        ],
+        "description": "乳腺区域可见一大小约中等的低回声病灶，形态不规则，边界欠清晰，内部回声不均，有部分回声增强表现，周围组织结构反射紊乱。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你就在用户身边，是超声健康协助者。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用专业文字描述超声影像。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区域可见一大小约中等的低回声病灶，形态不规则，边界欠清晰，内部回声不均，有部分回声增强表现，周围组织结构反射紊乱。"
+            }
+        ]
+    },
+    {
+        "id": "72 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/72 Malignant Image.png"
+        ],
+        "description": "乳腺右侧可见一低回声结节，形态近圆形，边界清晰，内部回声均匀，无明显后方增强或声影。周围组织结构未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "作为超声健康支援者，你时刻准备协助用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>画面里有什么？请用中文描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺右侧可见一低回声结节，形态近圆形，边界清晰，内部回声均匀，无明显后方增强或声影。周围组织结构未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "73 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/73 Benign Image.png"
+        ],
+        "description": "乳腺内可见一规则边界的无回声囊性病变，形态规则，透声增强明显，未见内部回声或钙化，符合囊肿表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你热心于超声医疗服务，是可靠的助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能否帮我对这张超声片进行描述？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一规则边界的无回声囊性病变，形态规则，透声增强明显，未见内部回声或钙化，符合囊肿表现。"
+            }
+        ]
+    },
+    {
+        "id": "73 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/73 Malignant Image.png"
+        ],
+        "description": "乳腺区见一不规则形态病变，内部为低回声区，边界不清，部分周围组织结构受牵拉，回声均匀度较差，未见明显后方声增强或减弱。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心肠的超声科专家，始终严谨、条理清晰，并恪守循证医学准则，为用户答疑解惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>需要一段针对该超声图的医学描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一不规则形态病变，内部为低回声区，边界不清，部分周围组织结构受牵拉，回声均匀度较差，未见明显后方声增强或减弱。"
+            }
+        ]
+    },
+    {
+        "id": "74 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/74 Benign Image.png"
+        ],
+        "description": "乳腺内见一低回声肿块，边界清晰，形态规则。内部回声不均匀，未见明显声影。肿块周围未见明显周围组织浸润。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术专家，乐于用规范流程与科学证据，解答用户难题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>对图中的内容进行简要解释。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一低回声肿块，边界清晰，形态规则。内部回声不均匀，未见明显声影。肿块周围未见明显周围组织浸润。"
+            }
+        ]
+    },
+    {
+        "id": "74 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/74 Malignant Image.png"
+        ],
+        "description": "乳腺区域显示一不规则形态病灶，边界不清，内部呈不均匀低回声，部分区域伴有强回声点，周围组织回声增粗。病灶内部未见明显囊性区，形态欠规整，符合可疑恶性病变特征。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域专业人士，乐于用严谨理论与规范流程，帮助用户理解病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>画面中有哪些值得注意的细节？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区域显示一不规则形态病灶，边界不清，内部呈不均匀低回声，部分区域伴有强回声点，周围组织回声增粗。病灶内部未见明显囊性区，形态欠规整，符合可疑恶性病变特征。"
+            }
+        ]
+    },
+    {
+        "id": "75 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/75 Benign Image.png"
+        ],
+        "description": "乳腺内见一囊性病变，边界清晰，形态规则，内部回声低，呈无回声区，后方伴明显声增强。周围未见明显异常血流信号。考虑为单纯性囊肿可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声诊断行家，乐于用严密推理与可靠数据，提供精准解答。"
+            },
+            {
+                "from": "human",
+                "value": "<image>生成一段关于此超声图的叙述"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性病变，边界清晰，形态规则，内部回声低，呈无回声区，后方伴明显声增强。周围未见明显异常血流信号。考虑为单纯性囊肿可能。"
+            }
+        ]
+    },
+    {
+        "id": "75 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/75 Malignant Image.png"
+        ],
+        "description": "乳腺区域可见不规则形态的低回声病变，边界不清，内部回声不均匀，部分区域伴有回声增强，周围组织回声结构紊乱。该病变形态特征提示需进一步评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名专注于超声的医学顾问，乐于用严谨逻辑与专业证据，回应提问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图里有什么？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区域可见不规则形态的低回声病变，边界不清，内部回声不均匀，部分区域伴有回声增强，周围组织回声结构紊乱。该病变形态特征提示需进一步评估。"
+            }
+        ]
+    },
+    {
+        "id": "76 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/76 Benign Image.png"
+        ],
+        "description": "乳腺超声示一孤立性低回声结节，形态规整，边界清晰，内部回声均匀，未见明显钙化及血流信号，周围组织回声正常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声影像权威，热心而严谨，依据可靠证据，逐一解答用户疑问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请概括图像的主要内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声示一孤立性低回声结节，形态规整，边界清晰，内部回声均匀，未见明显钙化及血流信号，周围组织回声正常。"
+            }
+        ]
+    },
+    {
+        "id": "76 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/76 Malignant Image.png"
+        ],
+        "description": "乳腺区见一低回声结节，形态不规则，边界欠清，后方回声呈明显声影。周围组织回声均匀，无明显周围血流信号。以上提示需结合临床进一步评估病变性质。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声医学导师，用条理清晰的循证思路，耐心解答用户困惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>生成一段该超声照片的描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一低回声结节，形态不规则，边界欠清，后方回声呈明显声影。周围组织回声均匀，无明显周围血流信号。以上提示需结合临床进一步评估病变性质。"
+            }
+        ]
+    },
+    {
+        "id": "77 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/77 Benign Image.png"
+        ],
+        "description": "乳腺内见一形态规则的囊性病变，内部呈无回声，边界清晰，后方声增强，未见明显内部回声或实性成分。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你秉持超声科医师的专业操守，用清晰的条理和科学依据，回应用户提问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用简洁医学术语描述超声影像"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一形态规则的囊性病变，内部呈无回声，边界清晰，后方声增强，未见明显内部回声或实性成分。"
+            }
+        ]
+    },
+    {
+        "id": "77 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/77 Malignant Image.png"
+        ],
+        "description": "乳腺超声图像显示一无回声区，呈囊性结构，边界清晰，形态不规则，内见点状强回声，可能伴有声影，提示囊性病变伴内部钙化或结节。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声医学博士，耐心而严谨，依据最新指南，为用户解惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用专业术语描述超声影像。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像显示一无回声区，呈囊性结构，边界清晰，形态不规则，内见点状强回声，可能伴有声影，提示囊性病变伴内部钙化或结节。"
+            }
+        ]
+    },
+    {
+        "id": "78 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/78 Benign Image.png"
+        ],
+        "description": "乳腺内见一低回声结节，形态不规则，边界欠清，内部回声不均，周围可见回声增强，大小约为图中所示，考虑需进一步鉴别诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声专家立场，细致入微地、按循证逻辑，为用户提供值得信赖的医学解读。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用中文输出这张超声影像的描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一低回声结节，形态不规则，边界欠清，内部回声不均，周围可见回声增强，大小约为图中所示，考虑需进一步鉴别诊断。"
+            }
+        ]
+    },
+    {
+        "id": "78 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/78 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形态囊性病变，内部呈无回声，边界不清，周围组织回声稍增高，提示可能为囊性病变或导管扩张。建议结合临床进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你乐于以超声健康小帮手的身份效劳。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图的内容有什么？请描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态囊性病变，内部呈无回声，边界不清，周围组织回声稍增高，提示可能为囊性病变或导管扩张。建议结合临床进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "79 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/79 Benign Image.png"
+        ],
+        "description": "乳腺区见一规则形态、边界清晰的无回声区，内部回声均匀，后方呈声韵影，病变呈囊性变化，大小约如图示测量。周边组织回声未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声影像权威，乐于以科学推理与最新标准，为用户提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文输出该超声扫描描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一规则形态、边界清晰的无回声区，内部回声均匀，后方呈声韵影，病变呈囊性变化，大小约如图示测量。周边组织回声未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "79 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/79 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形态的低回声区，边界不清，内部回声不均，伴后方声影。周围组织回声稍增粗，提示可能存在浸润性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "身为超声医学行家，你乐于奉献，善用缜密思维与最新指南，精准解答用户疑虑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请基于这张超声照片写说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态的低回声区，边界不清，内部回声不均，伴后方声影。周围组织回声稍增粗，提示可能存在浸润性病变。"
+            }
+        ]
+    },
+    {
+        "id": "8 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/8 Benign Image.png"
+        ],
+        "description": "乳腺内见一低回声区，形态规则，边界清晰，内部回声均匀，后方回声增强，未见明显内部分隔及钙化声影。周边组织结构未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声科资深身份，恪守科学方法，为用户梳理每一个医学疑点。"
+            },
+            {
+                "from": "human",
+                "value": "<image>为此超声照片撰写一段说明文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一低回声区，形态规则，边界清晰，内部回声均匀，后方回声增强，未见明显内部分隔及钙化声影。周边组织结构未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "8 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/8 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形低回声区，边界欠清，回声不均，内部可见多个点状强回声，周围组织结构未见明显异常，伴少许后方声影。提示可能为恶性肿物，需结合临床及进一步检查确认。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你热心于超声医疗服务，是可靠的助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>把这张超声成像简要说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形低回声区，边界欠清，回声不均，内部可见多个点状强回声，周围组织结构未见明显异常，伴少许后方声影。提示可能为恶性肿物，需结合临床及进一步检查确认。"
+            }
+        ]
+    },
+    {
+        "id": "80 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/80 Benign Image.png"
+        ],
+        "description": "乳腺内可见一囊实性混杂回声病灶，内部回声不均匀，伴囊性暗区，边界较清晰，边缘部分较规则。病灶内部分区域呈低回声，囊性部分呈无回声，周围组织未见明显侵犯。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声医学助手，耐心解答，用系统化思路与规范标准，帮助用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用简洁语言描述这张超声影像。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一囊实性混杂回声病灶，内部回声不均匀，伴囊性暗区，边界较清晰，边缘部分较规则。病灶内部分区域呈低回声，囊性部分呈无回声，周围组织未见明显侵犯。"
+            }
+        ]
+    },
+    {
+        "id": "80 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/80 Malignant Image.png"
+        ],
+        "description": "乳腺左侧见一低回声结节，边界较清晰，形态规则，内部回声均匀，周围未见明显血流信号，周围组织结构未见明显侵犯。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域专家，始终遵循专业准则，为用户梳理医学疑问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图中可见哪些关键细节？请逐一描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺左侧见一低回声结节，边界较清晰，形态规则，内部回声均匀，周围未见明显血流信号，周围组织结构未见明显侵犯。"
+            }
+        ]
+    },
+    {
+        "id": "81 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/81 Benign Image.png"
+        ],
+        "description": "乳腺内见一孤立性低回声区，边界清晰，形态规则，内部回声均匀，无明显血流信号提示，符合囊性或良性病变特点。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你热心于超声医疗服务，是可靠的助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图中有什么？请用文字说明"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一孤立性低回声区，边界清晰，形态规则，内部回声均匀，无明显血流信号提示，符合囊性或良性病变特点。"
+            }
+        ]
+    },
+    {
+        "id": "81 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/81 Malignant Image.png"
+        ],
+        "description": "乳腺内见一规则形态的囊性病变，呈无回声区，边界清晰，后方明显声影增强。病灶大小约为图中所示长短径。周围未见明显异常回声。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声科权威角色，耐心而系统，依据可靠证据，回应用户健康疑问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请简述图中所见内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一规则形态的囊性病变，呈无回声区，边界清晰，后方明显声影增强。病灶大小约为图中所示长短径。周围未见明显异常回声。"
+            }
+        ]
+    },
+    {
+        "id": "82 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/82 Benign Image.png"
+        ],
+        "description": "乳腺区见一低回声结节，形态不规则，边界不清，内部回声不均，后方伴声影，提示可能为恶性病变。周围组织未见明显异常回声。建议结合临床及必要时行穿刺活检进一步诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一位热忱的超声健康助理。"
+            },
+            {
+                "from": "human",
+                "value": "<image>基于该超声照片撰写简要说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一低回声结节，形态不规则，边界不清，内部回声不均，后方伴声影，提示可能为恶性病变。周围组织未见明显异常回声。建议结合临床及必要时行穿刺活检进一步诊断。"
+            }
+        ]
+    },
+    {
+        "id": "82 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/82 Malignant Image.png"
+        ],
+        "description": "乳腺区见一不均匀低回声结节，形态不规则，边界欠清，部分边界模糊，内部回声呈斑驳状，伴后方声影，周围未见明显血流信号，提示可能为恶性病变，建议结合临床及进一步检查。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你乐于以超声医疗支持者身份效劳。"
+            },
+            {
+                "from": "human",
+                "value": "<image>撰写一段关于这张超声扫描的说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区见一不均匀低回声结节，形态不规则，边界欠清，部分边界模糊，内部回声呈斑驳状，伴后方声影，周围未见明显血流信号，提示可能为恶性病变，建议结合临床及进一步检查。"
+            }
+        ]
+    },
+    {
+        "id": "83 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/83 Benign Image.png"
+        ],
+        "description": "乳腺区可见一囊性病变，形态规则，边界清晰，内部呈无回声，囊壁略厚，未见明显内部回声结节。整体回声均匀，周围组织结构未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声医学博士，耐心而严谨，依据最新指南，为用户解惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>给此超声影像配一段文字说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区可见一囊性病变，形态规则，边界清晰，内部呈无回声，囊壁略厚，未见明显内部回声结节。整体回声均匀，周围组织结构未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "83 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/83 Malignant Image.png"
+        ],
+        "description": "乳腺内见一囊性病变，呈明显无回声，边界清晰，形态规则，后方声增强，周围组织未见明显异常改变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你乐意助人，是值得信赖的超声健康顾问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这里有一张超声图像，帮我生成对应的描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性病变，呈明显无回声，边界清晰，形态规则，后方声增强，周围组织未见明显异常改变。"
+            }
+        ]
+    },
+    {
+        "id": "84 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/84 Benign Image.png"
+        ],
+        "description": "乳腺内见一呈长椭圆形无回声区，边界清晰，内无明显内部回声，后方声影明显，大小约为所示尺寸。周围组织结构未见明显异常。考虑囊性病变可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声诊断权威立场，细致入微地、按循证原则，解答用户疑问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>根据这张图生成超声描述语句。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一呈长椭圆形无回声区，边界清晰，内无明显内部回声，后方声影明显，大小约为所示尺寸。周围组织结构未见明显异常。考虑囊性病变可能。"
+            }
+        ]
+    },
+    {
+        "id": "84 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/84 Malignant Image.png"
+        ],
+        "description": "乳腺内见一呈不规则形态的无回声区，边界清晰但部分可见细小分叶状突起，内部无明显内部回声，后方声影减弱，周围乳腺组织结构未见明显异常。提示可能为囊性病变，建议结合临床及进一步检查评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像导师，乐于用缜密推理与循证知识，逐一回应提问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图展示了什么？请说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一呈不规则形态的无回声区，边界清晰但部分可见细小分叶状突起，内部无明显内部回声，后方声影减弱，周围乳腺组织结构未见明显异常。提示可能为囊性病变，建议结合临床及进一步检查评估。"
+            }
+        ]
+    },
+    {
+        "id": "85 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/85 Benign Image.png"
+        ],
+        "description": "乳腺内见一大小约测量的囊性病灶，呈无回声区，形态规则，边界清晰，后方伴强回声衍射。无明显血流信号。考虑囊肿可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声医学权威，热心而严谨，依据最新文献，逐一拆解用户疑问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能否根据这张超声图输出相应的文字说明？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一大小约测量的囊性病灶，呈无回声区，形态规则，边界清晰，后方伴强回声衍射。无明显血流信号。考虑囊肿可能。"
+            }
+        ]
+    },
+    {
+        "id": "85 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/85 Malignant Image.png"
+        ],
+        "description": "乳腺内见一呈圆形无回声区，边界清晰，后方可见明显声透亮区，符合囊性病变特征。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你站在超声影像前沿，用缜密推演与规范准则，确保每句答复都经得起推敲。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用中文描述超声图表现。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一呈圆形无回声区，边界清晰，后方可见明显声透亮区，符合囊性病变特征。"
+            }
+        ]
+    },
+    {
+        "id": "86 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/86 Benign Image.png"
+        ],
+        "description": "乳腺内见一椭圆形无回声区，边界清晰，包膜完整，后方可见明显声增强，提示囊性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你随时提供协助，是用户的超声医疗伙伴。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用中文描述这张超声影像所见。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一椭圆形无回声区，边界清晰，包膜完整，后方可见明显声增强，提示囊性病变。"
+            }
+        ]
+    },
+    {
+        "id": "86 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/86 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形态囊性病变，内部呈无回声，边界不清，部分区室内见分隔声影，后方回声增强。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声科专家角色，严谨细致，依据专业指南，为用户梳理疑点。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图里有什么？请简要说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形态囊性病变，内部呈无回声，边界不清，部分区室内见分隔声影，后方回声增强。"
+            }
+        ]
+    },
+    {
+        "id": "87 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/87 Benign Image.png"
+        ],
+        "description": "乳腺内可见一不规则形态的低回声团块，边界不清晰，回声内部均质，周围未见明显回声增强或减弱，形态及回声特点提示病变可能性较大，建议进一步影像学及病理检查明确诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声影像顾问，用系统化思考与专业指南，确保回复准确可靠。"
+            },
+            {
+                "from": "human",
+                "value": "<image>给这张超声图像配一段描述性文本。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一不规则形态的低回声团块，边界不清晰，回声内部均质，周围未见明显回声增强或减弱，形态及回声特点提示病变可能性较大，建议进一步影像学及病理检查明确诊断。"
+            }
+        ]
+    },
+    {
+        "id": "87 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/87 Malignant Image.png"
+        ],
+        "description": "乳腺内可见一囊性占位，形态不规则，边界清晰，内部呈无回声，后方有明显增强，未见明显内部回声。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你专属于用户，是专属的超声医疗支持人员。"
+            },
+            {
+                "from": "human",
+                "value": "<image>画面里有哪些内容？简单描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一囊性占位，形态不规则，边界清晰，内部呈无回声，后方有明显增强，未见明显内部回声。"
+            }
+        ]
+    },
+    {
+        "id": "88 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/88 Benign Image.png"
+        ],
+        "description": "乳腺超声图像显示乳腺内见一低回声肿块，形态为椭圆形，边界清晰，内部回声均匀，伴有后方声增强，未见明显周围组织浸润。提示乳腺良性占位性病变可能性较大。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域行家，恪守循证医学，为用户提供精准可信的答复。"
+            },
+            {
+                "from": "human",
+                "value": "<image>根据超声图像输出对应描述"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像显示乳腺内见一低回声肿块，形态为椭圆形，边界清晰，内部回声均匀，伴有后方声增强，未见明显周围组织浸润。提示乳腺良性占位性病变可能性较大。"
+            }
+        ]
+    },
+    {
+        "id": "88 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/88 Malignant Image.png"
+        ],
+        "description": "乳腺内见一大小约中等的囊性病变，形态较规则，边界清晰，内部均为无回声，后方有明显声增强表现，周围组织未见明显异常回声。提示乳腺囊肿可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声影像身份，乐于用专业方法与规范流程，解答用户健康困惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>画面里有什么？请详细描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一大小约中等的囊性病变，形态较规则，边界清晰，内部均为无回声，后方有明显声增强表现，周围组织未见明显异常回声。提示乳腺囊肿可能。"
+            }
+        ]
+    },
+    {
+        "id": "89 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/89 Benign Image.png"
+        ],
+        "description": "乳腺组织内见一形态规则、内部无回声的囊性病变，边界清晰，后方伴明显声强增强，提示典型的单纯乳腺囊肿特征。周围组织结构未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心肠的超声科专家，始终严谨、条理清晰，并恪守循证医学准则，为用户答疑解惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>撰写一段针对超声影像的文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一形态规则、内部无回声的囊性病变，边界清晰，后方伴明显声强增强，提示典型的单纯乳腺囊肿特征。周围组织结构未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "89 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/89 Malignant Image.png"
+        ],
+        "description": "乳腺内可见一低回声区，形态不规则，边界不清，内部回声不均匀，部分区域呈无回声，周围结构显示受压及牵拉征象。建议结合临床及进一步影像学检查评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声影像权威，热心而严谨，依据可靠证据，逐一解答用户疑问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像里有什么？请描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内可见一低回声区，形态不规则，边界不清，内部回声不均匀，部分区域呈无回声，周围结构显示受压及牵拉征象。建议结合临床及进一步影像学检查评估。"
+            }
+        ]
+    },
+    {
+        "id": "9 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/9 Benign Image.png"
+        ],
+        "description": "乳腺区域可见一不规则低回声肿块，边界欠清，内部回声不均，部分区域呈稍高回声，伴明显后方声影。周围组织回声模糊，提示可能有浸润表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声诊断顾问身份，条理清晰地引用规范，确保每句回复都可靠。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请把超声照片所见转成文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺区域可见一不规则低回声肿块，边界欠清，内部回声不均，部分区域呈稍高回声，伴明显后方声影。周围组织回声模糊，提示可能有浸润表现。"
+            }
+        ]
+    },
+    {
+        "id": "9 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/9 Malignant Image.png"
+        ],
+        "description": "乳腺内见一呈不规则形态的无回声区，内部回声缺失，边界清晰，后方声增强，符合囊性病变表现。周围未见明显血流信号，提示可能为单纯性囊肿。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "用户可把你当作超声健康小秘书。"
+            },
+            {
+                "from": "human",
+                "value": "<image>描述一下图里的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一呈不规则形态的无回声区，内部回声缺失，边界清晰，后方声增强，符合囊性病变表现。周围未见明显血流信号，提示可能为单纯性囊肿。"
+            }
+        ]
+    },
+    {
+        "id": "90 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/90 Benign Image.png"
+        ],
+        "description": "乳腺超声示乳腺内见一实性肿块，形态规则，边界清晰，回声较低，内部回声均匀，未见明显钙化或囊性区。肿块周围回声未见明显改变。需结合临床及进一步检查明确性质。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科权威，热心服务，用严谨逻辑与专业标准，回应提问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中包含了什么？请简述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声示乳腺内见一实性肿块，形态规则，边界清晰，回声较低，内部回声均匀，未见明显钙化或囊性区。肿块周围回声未见明显改变。需结合临床及进一步检查明确性质。"
+            }
+        ]
+    },
+    {
+        "id": "90 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/90 Malignant Image.png"
+        ],
+        "description": "乳腺组织内见一囊性低回声区，边界清晰，形态规整，内部呈无回声，后方声增强。考虑为乳腺囊肿。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像助手，热心助人，用系统化思维与循证指南，解答困惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请生成一段超声检查的解读。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一囊性低回声区，边界清晰，形态规整，内部呈无回声，后方声增强。考虑为乳腺囊肿。"
+            }
+        ]
+    },
+    {
+        "id": "91 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/91 Benign Image.png"
+        ],
+        "description": "乳腺内见一不规则低回声结节，边界欠清，内部回声不均，有部分小液性区，周围未见明显血流信号，形态及回声特征提示需进一步排查恶性可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "作为超声影像顾问，你时刻准备用系统化的思路和可靠证据，帮助用户排除困惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>撰写一段针对超声检查的描述"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则低回声结节，边界欠清，内部回声不均，有部分小液性区，周围未见明显血流信号，形态及回声特征提示需进一步排查恶性可能。"
+            }
+        ]
+    },
+    {
+        "id": "91 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/91 Malignant Image.png"
+        ],
+        "description": "乳腺内见一呈不规则形态的低回声区，边界模糊，内部回声不均，部分伴有后方声影，周围组织回声稍改变。提示病变可能为恶性病灶，建议进一步检查。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名专注超声技术的医学顾问，乐于用严谨方法和专业知识，解答用户难题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用专业口吻描述这张超声片子。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一呈不规则形态的低回声区，边界模糊，内部回声不均，部分伴有后方声影，周围组织回声稍改变。提示病变可能为恶性病灶，建议进一步检查。"
+            }
+        ]
+    },
+    {
+        "id": "92 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/92 Benign Image.png"
+        ],
+        "description": "乳腺内见一低回声包块，形态较规整，边界清晰，内部回声均匀，后方回声增强，提示囊性病变可能。周围组织回声未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心而严谨的超声影像师，用循证方法，逐一回应用户问题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>根据该超声图撰写观察描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一低回声包块，形态较规整，边界清晰，内部回声均匀，后方回声增强，提示囊性病变可能。周围组织回声未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "92 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/92 Malignant Image.png"
+        ],
+        "description": "乳腺内见一规则边界的囊性病变，内部无回声，呈透明区，边缘光整，提示囊肿可能。周围组织未见明显异常回声改变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域权威，热心而专业，依据可靠证据，回应用户关切。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图展示了什么？请总结。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一规则边界的囊性病变，内部无回声，呈透明区，边缘光整，提示囊肿可能。周围组织未见明显异常回声改变。"
+            }
+        ]
+    },
+    {
+        "id": "93 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/93 Benign Image.png"
+        ],
+        "description": "乳腺图像显示一明显包膜完整的囊性病变，形态规则，内部呈无回声，边界清晰，后方声增强。周围未见明显异常回声。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "用户可把你当成超声医疗小管家。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图展示的是什么？请说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺图像显示一明显包膜完整的囊性病变，形态规则，内部呈无回声，边界清晰，后方声增强。周围未见明显异常回声。"
+            }
+        ]
+    },
+    {
+        "id": "93 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/93 Malignant Image.png"
+        ],
+        "description": "乳腺组织内见一边界清晰的囊性病变，呈明显无回声区，内部可见散在低回声分隔，周围组织回声均匀，边界规整，形态较规则。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声医学顾问，遵循专业标准，用清晰条理，为每位用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>生成该超声影像的文字说明"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一边界清晰的囊性病变，呈明显无回声区，内部可见散在低回声分隔，周围组织回声均匀，边界规整，形态较规则。"
+            }
+        ]
+    },
+    {
+        "id": "94 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/94 Benign Image.png"
+        ],
+        "description": "乳腺内见一规则、边界清晰的圆形低回声结节，内部回声均匀，周围无明显血流信号，符合良性囊性病变表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声医学身份，细致入微地、循证地，帮助用户理解检查结果。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用几句话描述图片的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一规则、边界清晰的圆形低回声结节，内部回声均匀，周围无明显血流信号，符合良性囊性病变表现。"
+            }
+        ]
+    },
+    {
+        "id": "94 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/94 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不规则形状低回声区，内部为无回声区，边界较清晰，后方声影明显，邻近组织结构未见明显受侵。考虑囊性病变可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声领域资深医师，用严谨推理和专业知识，确保每一条回复都符合医学标准。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用一句话总结此图最重要的发现。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不规则形状低回声区，内部为无回声区，边界较清晰，后方声影明显，邻近组织结构未见明显受侵。考虑囊性病变可能。"
+            }
+        ]
+    },
+    {
+        "id": "95 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/95 Benign Image.png"
+        ],
+        "description": "乳腺内见一呈长圆形无回声区，边界清晰，形态规则，后方回声增强，符合囊性病变特征。周围组织回声均匀。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你专注于健康关怀，是超声小帮手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中包含了哪些细节？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一呈长圆形无回声区，边界清晰，形态规则，后方回声增强，符合囊性病变特征。周围组织回声均匀。"
+            }
+        ]
+    },
+    {
+        "id": "95 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/95 Malignant Image.png"
+        ],
+        "description": "乳腺超声图像示见一不规则形状的低回声病灶，边界模糊，内部回声不均匀，周围组织回声混杂，提示可能为液性或囊实性病变，需结合临床及进一步检查明确诊断。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声影像专家，恪守科学规范，为用户提供清晰可靠的医学建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能否将此超声影像内容写成文字？"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺超声图像示见一不规则形状的低回声病灶，边界模糊，内部回声不均匀，周围组织回声混杂，提示可能为液性或囊实性病变，需结合临床及进一步检查明确诊断。"
+            }
+        ]
+    },
+    {
+        "id": "96 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/96 Benign Image.png"
+        ],
+        "description": "乳腺内见一囊性病变，形态规整，边界清晰，呈无回声，内部回声均匀，透声良好，后方声增强明显。该病变符合单纯囊肿特征。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科博士，用系统化思考与最新标准，帮助用户理解病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文输出该图超声描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性病变，形态规整，边界清晰，呈无回声，内部回声均匀，透声良好，后方声增强明显。该病变符合单纯囊肿特征。"
+            }
+        ]
+    },
+    {
+        "id": "96 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/96 Malignant Image.png"
+        ],
+        "description": "乳腺组织中见一形态不规则、边界不清楚的低回声区，内部回声不均，有液性暗区及囊样结构，边缘可见回声增强，未见明显钙化强回声，周围组织回声紊乱。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你愿意做用户身边的超声健康守护助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>把这张超声片的主要表现写出来。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织中见一形态不规则、边界不清楚的低回声区，内部回声不均，有液性暗区及囊样结构，边缘可见回声增强，未见明显钙化强回声，周围组织回声紊乱。"
+            }
+        ]
+    },
+    {
+        "id": "97 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/97 Benign Image.png"
+        ],
+        "description": "乳腺内见不规则形态低回声区，边界不清，内部回声不均，伴有少量声影，周围组织回声略增。提示可疑恶性病变，建议进一步诊断评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像顾问，始终遵循专业准则，用清晰逻辑，回应用户。"
+            },
+            {
+                "from": "human",
+                "value": "<image>我想请你给这张超声扫描写个报告。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见不规则形态低回声区，边界不清，内部回声不均，伴有少量声影，周围组织回声略增。提示可疑恶性病变，建议进一步诊断评估。"
+            }
+        ]
+    },
+    {
+        "id": "97 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/97 Malignant Image.png"
+        ],
+        "description": "乳腺内见一不均匀低回声区，形态不规则，边界部分欠清，内部可见散在强回声，可见部分后方声影，提示病变可能为实性病灶，需结合临床及进一步影像学检查。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声医学权威，热心而严谨，依据最新文献，逐一拆解用户疑问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用中文描述该超声扫描的所见"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一不均匀低回声区，形态不规则，边界部分欠清，内部可见散在强回声，可见部分后方声影，提示病变可能为实性病灶，需结合临床及进一步影像学检查。"
+            }
+        ]
+    },
+    {
+        "id": "98 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/98 Benign Image.png"
+        ],
+        "description": "乳腺内见一囊性低回声区，形态规则，边界清晰，内部无内部回声。符合单纯囊肿的超声表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声医学助手，严谨细致，用专业指南，帮助用户理解诊断。"
+            },
+            {
+                "from": "human",
+                "value": "<image>把超声影像的内容转成文字描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一囊性低回声区，形态规则，边界清晰，内部无内部回声。符合单纯囊肿的超声表现。"
+            }
+        ]
+    },
+    {
+        "id": "98 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/98 Malignant Image.png"
+        ],
+        "description": "乳腺组织内见一不规则形态、边界不清的低回声区，内部回声不均，伴有点状强回声散在分布，边界模糊，周围组织回声增粗，提示可能存在恶性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名专注于超声的医学顾问，乐于用严谨逻辑与专业证据，回应提问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>麻烦你解读一下这张超声扫描图。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺组织内见一不规则形态、边界不清的低回声区，内部回声不均，伴有点状强回声散在分布，边界模糊，周围组织回声增粗，提示可能存在恶性病变。"
+            }
+        ]
+    },
+    {
+        "id": "99 Benign Image.png",
+        "image": [
+            "public_data/QAMEBI/99 Benign Image.png"
+        ],
+        "description": "乳腺内见一边界清晰、形态规则的囊性病变，内容回声低，近壁回声稍有增强，未见明显内部实性成分，周围组织回声清晰。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术行家，用逻辑清晰的循证方法，帮助用户理解病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请为超声照片撰写医学描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺内见一边界清晰、形态规则的囊性病变，内容回声低，近壁回声稍有增强，未见明显内部实性成分，周围组织回声清晰。"
+            }
+        ]
+    },
+    {
+        "id": "99 Malignant Image.png",
+        "image": [
+            "public_data/QAMEBI/99 Malignant Image.png"
+        ],
+        "description": "乳腺实质内见不规则低回声团块，边界欠清，形态不规则，内部回声不均匀，周围伴有部分回声减弱区，未见明显钙化灶。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心而严谨的超声影像师，用循证方法，逐一回应用户问题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>画面里出现了什么？请描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "乳腺实质内见不规则低回声团块，边界欠清，形态不规则，内部回声不均匀，周围伴有部分回声减弱区，未见明显钙化灶。"
+            }
+        ]
+    }
+]

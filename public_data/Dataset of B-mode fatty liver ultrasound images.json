@@ -1,0 +1,1157 @@
+[
+    {
+        "id": "sample_000_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_000_00.png"
+        ],
+        "description": "肝脏回声呈现均匀，中等回声，肝实质内未见明显包块或异常低回声区，肝边界清晰光整。未见明显肝内胆管扩张或血管异常。整体肝脏结构正常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你站在超声影像前沿，用缜密推演与规范准则，确保每句答复都经得起推敲。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用医学报告风格描述此超声图。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏回声呈现均匀，中等回声，肝实质内未见明显包块或异常低回声区，肝边界清晰光整。未见明显肝内胆管扩张或血管异常。整体肝脏结构正常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_001_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_001_00.png"
+        ],
+        "description": "肝脏实质回声均匀，未见明确异常回声区。肝包膜光滑，边界清晰。未见明显肝内占位性病变或囊性结构。肝血管结构显示正常。整体图像显示肝脏未见明显病变特征。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声诊断专家，细致严谨，用循证数据，提供精准医学意见。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请把超声照片所见转成文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，未见明确异常回声区。肝包膜光滑，边界清晰。未见明显肝内占位性病变或囊性结构。肝血管结构显示正常。整体图像显示肝脏未见明显病变特征。"
+            }
+        ]
+    },
+    {
+        "id": "sample_002_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_002_00.png"
+        ],
+        "description": "肝脏实质回声未见明显异常，边界清晰。未见明显占位性病变。门静脉内未见明显血栓形成，血管结构完整。总体肝脏形态规则，未见明显肝内结节或包块。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声医学助手，用逻辑严谨且贴合指南的方式，为用户提供权威解答。"
+            },
+            {
+                "from": "human",
+                "value": "<image>把超声成像的内容用中文描述"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声未见明显异常，边界清晰。未见明显占位性病变。门静脉内未见明显血栓形成，血管结构完整。总体肝脏形态规则，未见明显肝内结节或包块。"
+            }
+        ]
+    },
+    {
+        "id": "sample_003_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_003_00.png"
+        ],
+        "description": "肝脏实质回声不均匀，见一低回声区，边界清晰，形态规整，部分区域回声略增强。周围肝组织回声较均匀，无明显包膜破坏及周围水肿征象。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声影像导师，耐心解答，遵循最新标准，为用户提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请生成一段超声检查的解读。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声不均匀，见一低回声区，边界清晰，形态规整，部分区域回声略增强。周围肝组织回声较均匀，无明显包膜破坏及周围水肿征象。"
+            }
+        ]
+    },
+    {
+        "id": "sample_004_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_004_00.png"
+        ],
+        "description": "肝脏显示不均质回声区，回声增粗伴散在强回声灶，边界不清晰，未见明显包膜，周围肝组织回声较均匀。未见明显液性暗区。整体肝脏结构无明显扩大。提示肝脏可能存在弥漫性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是用户专属的超声健康支持助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请撰写一段该超声影像摘要。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏显示不均质回声区，回声增粗伴散在强回声灶，边界不清晰，未见明显包膜，周围肝组织回声较均匀。未见明显液性暗区。整体肝脏结构无明显扩大。提示肝脏可能存在弥漫性病变。"
+            }
+        ]
+    },
+    {
+        "id": "sample_005_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_005_00.png"
+        ],
+        "description": "肝脏右叶见一低回声结节，内部回声较均匀，边界清晰，形态规则。周围肝实质回声均匀，无明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是用户专属的超声健康支持助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能否帮我对这张超声片进行描述？"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏右叶见一低回声结节，内部回声较均匀，边界清晰，形态规则。周围肝实质回声均匀，无明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_006_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_006_00.png"
+        ],
+        "description": "超声图像显示肝脏实质回声均匀，未见明显异常低回声或高回声病灶。肝轮廓光滑，边界清晰。未见明显占位性病变及液性区。门静脉和肝静脉显示正常，未见明显扩张。整体肝脏结构未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "You are a professional ultrasound clinician."
+            },
+            {
+                "from": "human",
+                "value": "<image>生成一段关于此超声图的叙述"
+            },
+            {
+                "from": "gpt",
+                "value": "超声图像显示肝脏实质回声均匀，未见明显异常低回声或高回声病灶。肝轮廓光滑，边界清晰。未见明显占位性病变及液性区。门静脉和肝静脉显示正常，未见明显扩张。整体肝脏结构未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_007_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_007_00.png"
+        ],
+        "description": "肝脏实质回声均匀，未见明显占位性病变，肝边界清晰，未见明显肝内结节或囊性结构。门静脉及肝静脉显示正常。腹腔未见异常液体。整体肝脏结构及回声未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你热心于超声医疗服务，是可靠的助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请为此超声图输出一段医学描述"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，未见明显占位性病变，肝边界清晰，未见明显肝内结节或囊性结构。门静脉及肝静脉显示正常。腹腔未见异常液体。整体肝脏结构及回声未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_008_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_008_00.png"
+        ],
+        "description": "肝右叶见一低回声病灶，内部回声不均，边界较清晰，未见明显包膜。周围肝实质回声均匀。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声科权威角色，耐心而系统，依据可靠证据，回应用户健康疑问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>对图中的内容进行简要解释。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝右叶见一低回声病灶，内部回声不均，边界较清晰，未见明显包膜。周围肝实质回声均匀。"
+            }
+        ]
+    },
+    {
+        "id": "sample_009_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_009_00.png"
+        ],
+        "description": "肝脏内见一低回声结节，形态规则，边界清晰，内部可见囊性回声区，周围肝实质回声均匀。提示肝脏局部囊性病变可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心而严谨的超声影像师，用循证方法，逐一回应用户问题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>需要一段针对该超声图的医学描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏内见一低回声结节，形态规则，边界清晰，内部可见囊性回声区，周围肝实质回声均匀。提示肝脏局部囊性病变可能。"
+            }
+        ]
+    },
+    {
+        "id": "sample_010_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_010_00.png"
+        ],
+        "description": "肝脏内见一类圆形病灶，回声不均，中心部分呈低回声，边缘稍高回声，边界清晰。病灶周围肝实质回声均匀，肝脏形态正常，无明显肝内胆管扩张。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你专属于用户，是专属的超声医疗支持人员。"
+            },
+            {
+                "from": "human",
+                "value": "<image>撰写一段关于此超声图的专业解读。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏内见一类圆形病灶，回声不均，中心部分呈低回声，边缘稍高回声，边界清晰。病灶周围肝实质回声均匀，肝脏形态正常，无明显肝内胆管扩张。"
+            }
+        ]
+    },
+    {
+        "id": "sample_011_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_011_00.png"
+        ],
+        "description": "肝脏超声图像显示肝实质回声均匀，内部未见明显异常高回声或低回声病灶。肝境界清晰，肝血管结构显示正常，未见明显占位性病变。整体肝脏大小和形态未见异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声医学行家，热心服务，用系统化方法与规范准则，回应提问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用中文描述该超声扫描的所见"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏超声图像显示肝实质回声均匀，内部未见明显异常高回声或低回声病灶。肝境界清晰，肝血管结构显示正常，未见明显占位性病变。整体肝脏大小和形态未见异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_012_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_012_00.png"
+        ],
+        "description": "肝脏回声均匀，未见明显低回声或高回声病灶，肝实质结构清晰，边界完整。未见明显肿块或囊性病变，肝脏形态正常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是用户可依靠的超声医疗小顾问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请基于这张超声照片写说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏回声均匀，未见明显低回声或高回声病灶，肝实质结构清晰，边界完整。未见明显肿块或囊性病变，肝脏形态正常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_013_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_013_00.png"
+        ],
+        "description": "肝脏内见一低回声病灶，边界尚清晰，形态不规则，内部回声不均匀，周围肝实质回声均匀。病灶无明显后方增强，质地较实。总体提示肝脏内可能存在实质性病变，建议结合临床及其他影像学进一步评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声影像专家，热心而缜密，依据权威文献，逐一回应用户问题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中有什么？请用中文讲述。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏内见一低回声病灶，边界尚清晰，形态不规则，内部回声不均匀，周围肝实质回声均匀。病灶无明显后方增强，质地较实。总体提示肝脏内可能存在实质性病变，建议结合临床及其他影像学进一步评估。"
+            }
+        ]
+    },
+    {
+        "id": "sample_014_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_014_00.png"
+        ],
+        "description": "肝脏超声图像显示肝组织回声均匀，未见明显局部异常回声区，边界清晰，未见明显肝内占位性病变。肝脏形态正常，未见肝脏轮廓异常。肝内血管回声清晰，结构完整。未见明显液性暗区或钙化点。整体提示肝脏超声表现未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是用户可依靠的超声医疗小顾问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请概述一下图中的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏超声图像显示肝组织回声均匀，未见明显局部异常回声区，边界清晰，未见明显肝内占位性病变。肝脏形态正常，未见肝脏轮廓异常。肝内血管回声清晰，结构完整。未见明显液性暗区或钙化点。整体提示肝脏超声表现未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_015_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_015_00.png"
+        ],
+        "description": "肝脏实质回声均匀，未见明显异常低回声或高回声病灶。肝轮廓清晰，边界规则。未见明显肝内占位性病变及钙化灶。总体示意正常肝脏超声表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声医学助手，用逻辑严谨且贴合指南的方式，为用户提供权威解答。"
+            },
+            {
+                "from": "human",
+                "value": "<image>基于这张超声影像生成精确的描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，未见明显异常低回声或高回声病灶。肝轮廓清晰，边界规则。未见明显肝内占位性病变及钙化灶。总体示意正常肝脏超声表现。"
+            }
+        ]
+    },
+    {
+        "id": "sample_016_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_016_00.png"
+        ],
+        "description": "肝脏实质回声均匀，未见明显异常包块或占位性病变。肝轮廓光滑，边界清晰。无明显液性暗区及强回声钙化斑点，肝内血管走行清晰，整体结构正常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声科顾问，严谨而耐心，引用权威文献，确保每句答复可信。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用专业方式描述此超声片子"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，未见明显异常包块或占位性病变。肝轮廓光滑，边界清晰。无明显液性暗区及强回声钙化斑点，肝内血管走行清晰，整体结构正常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_017_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_017_00.png"
+        ],
+        "description": "肝脏内见一低回声病灶，形态不规则，边界不清晰，内部可见不均匀回声增强，周围肝组织回声均匀。未见明显囊性变或钙化。提示肝脏病变需结合临床及其他影像学检查进一步评估。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声医学权威，严谨而细致，依据科学证据，为用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>生成该超声影像的文字说明"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏内见一低回声病灶，形态不规则，边界不清晰，内部可见不均匀回声增强，周围肝组织回声均匀。未见明显囊性变或钙化。提示肝脏病变需结合临床及其他影像学检查进一步评估。"
+            }
+        ]
+    },
+    {
+        "id": "sample_018_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_018_00.png"
+        ],
+        "description": "肝脏实质回声均匀，未见明显异常回声区。肝表面光滑，边界清晰。未见明显占位性病变或包膜异常。血管走行清楚，整体肝脏形态正常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名专注于超声影像的医师，乐于用缜密思维与循证知识，解惑答疑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用一句话概括图像的要点。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，未见明显异常回声区。肝表面光滑，边界清晰。未见明显占位性病变或包膜异常。血管走行清楚，整体肝脏形态正常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_019_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_019_00.png"
+        ],
+        "description": "肝脏超声图像显示肝实质回声增粗，右肝叶见一低回声区，边界尚清，内部回声不均，肝周无明显包膜增厚或肿物。整体肝脏形态正常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声医学顾问，遵循专业标准，用清晰条理，为每位用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请描述图像所呈现的画面。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏超声图像显示肝实质回声增粗，右肝叶见一低回声区，边界尚清，内部回声不均，肝周无明显包膜增厚或肿物。整体肝脏形态正常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_020_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_020_00.png"
+        ],
+        "description": "肝脏内见一类圆形低回声区，边界清晰，形态规则，内部回声不均，有少量散在高回声点。周围肝实质回声均匀，未见明显包膜侵犯或周围组织结构受累。考虑肝内良性病变可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术顾问，严谨而专业，依据可靠数据，提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这里有一张超声图像，帮我生成对应的描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏内见一类圆形低回声区，边界清晰，形态规则，内部回声不均，有少量散在高回声点。周围肝实质回声均匀，未见明显包膜侵犯或周围组织结构受累。考虑肝内良性病变可能。"
+            }
+        ]
+    },
+    {
+        "id": "sample_021_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_021_00.png"
+        ],
+        "description": "肝脏实质回声均匀，肝脏轮廓清晰，未见明显占位性病变，未见明显边界不清的异常回声区。肝内血管结构未见明显异常回声干扰。整体所见符合正常肝脏超声表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域权威，热心而专业，依据可靠证据，回应用户关切。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文描述这张超声检查结果"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，肝脏轮廓清晰，未见明显占位性病变，未见明显边界不清的异常回声区。肝内血管结构未见明显异常回声干扰。整体所见符合正常肝脏超声表现。"
+            }
+        ]
+    },
+    {
+        "id": "sample_022_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_022_00.png"
+        ],
+        "description": "肝脏实质回声均匀，未见明显占位性病变。肝边界清晰，肝叶形态正常。未见明显液性暗区或高回声灶。未见肝内胆管扩张。整体肝组织声像图未见异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "You are a professional ultrasound clinician."
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图的画面里有哪些内容？"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，未见明显占位性病变。肝边界清晰，肝叶形态正常。未见明显液性暗区或高回声灶。未见肝内胆管扩张。整体肝组织声像图未见异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_023_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_023_00.png"
+        ],
+        "description": "肝脏显示回声均匀，未见明显占位性病变，肝表面光滑，肝内血管走行清晰，未见明显异常回声区，结构未见明显破坏，边界清晰。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "You are an experienced ultrasound expert."
+            },
+            {
+                "from": "human",
+                "value": "<image>请用一句话总结此图最重要的发现。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏显示回声均匀，未见明显占位性病变，肝表面光滑，肝内血管走行清晰，未见明显异常回声区，结构未见明显破坏，边界清晰。"
+            }
+        ]
+    },
+    {
+        "id": "sample_024_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_024_00.png"
+        ],
+        "description": "肝脏实质回声整体稍低，未见明显异常低回声或高回声病灶，肝轮廓光滑，边界清晰。肝内血管显示正常，未见明显占位性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域行家，恪守循证医学，为用户提供精准可信的答复。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图里有什么？请简要说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声整体稍低，未见明显异常低回声或高回声病灶，肝轮廓光滑，边界清晰。肝内血管显示正常，未见明显占位性病变。"
+            }
+        ]
+    },
+    {
+        "id": "sample_025_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_025_00.png"
+        ],
+        "description": "肝脏实质回声均匀，未见明显异常高回声或低回声区，未见明显包块，边界清晰，未见液性暗区或囊性结构。整体肝脏形态正常，未见明显占位性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "You are an experienced ultrasound expert."
+            },
+            {
+                "from": "human",
+                "value": "<image>请用医学语言概括此图所包含的结构与特征。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，未见明显异常高回声或低回声区，未见明显包块，边界清晰，未见液性暗区或囊性结构。整体肝脏形态正常，未见明显占位性病变。"
+            }
+        ]
+    },
+    {
+        "id": "sample_026_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_026_00.png"
+        ],
+        "description": "肝脏超声图像显示肝组织回声增粗，呈弥漫性均匀低回声区，未见明显局灶性病变。肝边界清晰，肝门区未见明显扩张的胆管或血管异常。总体提示肝实质结构均匀，未见明确肿块或囊性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术顾问，严谨而专业，依据可靠数据，提供可信建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>能否根据这张超声图输出相应的文字说明？"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏超声图像显示肝组织回声增粗，呈弥漫性均匀低回声区，未见明显局灶性病变。肝边界清晰，肝门区未见明显扩张的胆管或血管异常。总体提示肝实质结构均匀，未见明确肿块或囊性病变。"
+            }
+        ]
+    },
+    {
+        "id": "sample_027_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_027_00.png"
+        ],
+        "description": "肝脏显示局限性低回声区，边界清晰，形态规则，内部回声均匀，未见明显钙化，提示肝脏局灶性病变。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声诊断专家，乐于用科学推理与规范准则，提供权威解答。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用专业口吻描述这张超声片子。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏显示局限性低回声区，边界清晰，形态规则，内部回声均匀，未见明显钙化，提示肝脏局灶性病变。"
+            }
+        ]
+    },
+    {
+        "id": "sample_028_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_028_00.png"
+        ],
+        "description": "肝脏内见一低回声区，边界清晰，可见环形低回声包膜，内部回声不均，呈网状或分叶状，病变周围肝实质回声均匀。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声影像顾问，耐心而系统，依据最新研究，为用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图里有什么值得注意的地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏内见一低回声区，边界清晰，可见环形低回声包膜，内部回声不均，呈网状或分叶状，病变周围肝实质回声均匀。"
+            }
+        ]
+    },
+    {
+        "id": "sample_029_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_029_00.png"
+        ],
+        "description": "肝脏回声整体均匀，未见明显异常回声区，无明显包裹或边界清晰的病灶。肝脏轮廓清晰，肝实质回声未见明显异常增粗或减低，未见占位性病变。周围肝组织结构正常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声影像专家，乐于用系统思维与科学依据，解答用户困惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中有什么？描述一下图像中的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏回声整体均匀，未见明显异常回声区，无明显包裹或边界清晰的病灶。肝脏轮廓清晰，肝实质回声未见明显异常增粗或减低，未见占位性病变。周围肝组织结构正常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_030_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_030_00.png"
+        ],
+        "description": "肝脏实质回声均匀，见右叶内一稍低回声区，边界模糊，内见斑点状强回声，周围肝组织回声正常，无明显包膜。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声医学助手，用逻辑严谨且贴合指南的方式，为用户提供权威解答。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中有什么东西？请概括。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，见右叶内一稍低回声区，边界模糊，内见斑点状强回声，周围肝组织回声正常，无明显包膜。"
+            }
+        ]
+    },
+    {
+        "id": "sample_031_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_031_00.png"
+        ],
+        "description": "肝脏位于图像中央，呈均匀中等回声。图中可见一低回声区，边界清晰，形态规则。病变周围肝组织未见明显异常回声。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声医学导师，恪守专业规范，为用户提供可靠的医学意见。"
+            },
+            {
+                "from": "human",
+                "value": "<image>生成一段该超声照片的描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏位于图像中央，呈均匀中等回声。图中可见一低回声区，边界清晰，形态规则。病变周围肝组织未见明显异常回声。"
+            }
+        ]
+    },
+    {
+        "id": "sample_032_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_032_00.png"
+        ],
+        "description": "肝脏超声图像显示肝实质回声增粗，整体回声不均匀，未见明显界限清晰的占位性病变。肝边界光滑，未见明显包膜增厚或结节形成。未见明显肝内胆管扩张，血管结构未见异常。整体提示肝脏弥漫性病变可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你扮演超声影像顾问，耐心而系统，依据最新研究，为用户排忧解难。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这幅图里出现了什么？请用文字描绘画面。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏超声图像显示肝实质回声增粗，整体回声不均匀，未见明显界限清晰的占位性病变。肝边界光滑，未见明显包膜增厚或结节形成。未见明显肝内胆管扩张，血管结构未见异常。整体提示肝脏弥漫性病变可能。"
+            }
+        ]
+    },
+    {
+        "id": "sample_033_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_033_00.png"
+        ],
+        "description": "肝脏超声图像显示肝实质回声较均匀，内见多发低回声无明显边界的病灶，部分病灶内回声不均，有散在回声增强影，边界欠清，考虑肝内多发病变可能。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是热心助人的超声医疗小秘书。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图中有什么？请用文字说明"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏超声图像显示肝实质回声较均匀，内见多发低回声无明显边界的病灶，部分病灶内回声不均，有散在回声增强影，边界欠清，考虑肝内多发病变可能。"
+            }
+        ]
+    },
+    {
+        "id": "sample_034_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_034_00.png"
+        ],
+        "description": "肝脏区显示回声均匀，未见明显占位性病变。肝实质回声均匀，边界清晰，未见异常低回声或高回声区。肝脏形态正常，肝内血管结构清晰，未见肝内胆管扩张或结节形成。整体超声表现无明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术顾问，逻辑清晰，引用权威文献，确保每句答复可信。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这幅影像展示了什么？请从整体到局部进行说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏区显示回声均匀，未见明显占位性病变。肝实质回声均匀，边界清晰，未见异常低回声或高回声区。肝脏形态正常，肝内血管结构清晰，未见肝内胆管扩张或结节形成。整体超声表现无明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_035_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_035_00.png"
+        ],
+        "description": "肝脏实质回声整体均匀，左叶可见一低回声区，形态欠规则，边界尚清，内部未见明显回声增强或钙化。周围肝组织回声正常，未见明显肝内血管扩张或胆道扩张。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你愿意做用户身边的超声健康守护助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>为这张超声扫描撰写一段记录"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声整体均匀，左叶可见一低回声区，形态欠规则，边界尚清，内部未见明显回声增强或钙化。周围肝组织回声正常，未见明显肝内血管扩张或胆道扩张。"
+            }
+        ]
+    },
+    {
+        "id": "sample_036_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_036_00.png"
+        ],
+        "description": "肝脏可见一低回声区，形态不规则，边界不清晰，内部回声不均匀，部分区域伴有高回声点影，提示可能为肝实质病变。周围肝组织回声均匀，无明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声医学身份，细致入微地、循证地，帮助用户理解检查结果。"
+            },
+            {
+                "from": "human",
+                "value": "<image>把这张超声成像简要说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏可见一低回声区，形态不规则，边界不清晰，内部回声不均匀，部分区域伴有高回声点影，提示可能为肝实质病变。周围肝组织回声均匀，无明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_037_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_037_00.png"
+        ],
+        "description": "肝脏实质回声均匀，未见明显异常低回声区或高回声区。肝边界清晰，轮廓规则。未见明显肝内肿块或囊性病变。整体肝脏结构无明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声诊断顾问身份，条理清晰地引用规范，确保每句回复都可靠。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请把这张超声成像的内容文字化。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，未见明显异常低回声区或高回声区。肝边界清晰，轮廓规则。未见明显肝内肿块或囊性病变。整体肝脏结构无明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_038_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_038_00.png"
+        ],
+        "description": "肝脏回声不均匀，呈散在低回声和混合回声区。局部可见边界较清晰的低回声病灶，形态不规则，内部结构复杂。未见明显包膜，周围肝实质回声稍增高，未见明显液性暗区。整体肝脏大小及形态未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科博士，用系统化思考与最新标准，帮助用户理解病情。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像里有什么？请描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏回声不均匀，呈散在低回声和混合回声区。局部可见边界较清晰的低回声病灶，形态不规则，内部结构复杂。未见明显包膜，周围肝实质回声稍增高，未见明显液性暗区。整体肝脏大小及形态未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_039_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_039_00.png"
+        ],
+        "description": "肝脏内见一不规则低回声区，边界尚清，内部回声不均质，周围肝实质回声较均匀。病变区未见明显钙化及液化表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "作为超声医疗协助者，你为用户服务。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用医学语言描述这张超声影像"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏内见一不规则低回声区，边界尚清，内部回声不均质，周围肝实质回声较均匀。病变区未见明显钙化及液化表现。"
+            }
+        ]
+    },
+    {
+        "id": "sample_040_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_040_00.png"
+        ],
+        "description": "肝脏超声图像显示肝组织均匀，中等回声，未见明显肝内包块或占位性病变，肝轮廓光滑，肝血管结构清晰，边界清楚。未见肝内结节或异常回声区，未见异常液体积聚。整体肝脏形态及回声特征正常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心肠的超声科专家，始终严谨、条理清晰，并恪守循证医学准则，为用户答疑解惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图像中包含了什么？请简述。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏超声图像显示肝组织均匀，中等回声，未见明显肝内包块或占位性病变，肝轮廓光滑，肝血管结构清晰，边界清楚。未见肝内结节或异常回声区，未见异常液体积聚。整体肝脏形态及回声特征正常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_041_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_041_00.png"
+        ],
+        "description": "肝脏实质回声均匀，未见明显异常低回声或高回声病灶，肝轮廓光滑清晰，未见肝内明显占位性病变，肝内血管结构显示正常。整体肝脏结构完整，无明显肝硬化或脂肪变改变表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名专注超声技术的医学顾问，乐于用严谨方法和专业知识，解答用户难题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>描述一下图里的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，未见明显异常低回声或高回声病灶，肝轮廓光滑清晰，未见肝内明显占位性病变，肝内血管结构显示正常。整体肝脏结构完整，无明显肝硬化或脂肪变改变表现。"
+            }
+        ]
+    },
+    {
+        "id": "sample_042_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_042_00.png"
+        ],
+        "description": "肝脏见一包块状低回声区，边界清楚，内部回声不均匀，部分区呈无回声，后方声影减弱。周围肝实质回声均匀。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是用户可信赖的超声健康助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请描述图中的主要内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏见一包块状低回声区，边界清楚，内部回声不均匀，部分区呈无回声，后方声影减弱。周围肝实质回声均匀。"
+            }
+        ]
+    },
+    {
+        "id": "sample_043_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_043_00.png"
+        ],
+        "description": "肝脏实质回声均匀，形态规则，未见明显占位性病变。肝轮廓清晰，未见明显边界异常，未见明显液性暗区。整体回声未见异常增强或减低。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是用户专属的超声健康支持助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>概述这张图的主要内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，形态规则，未见明显占位性病变。肝轮廓清晰，未见明显边界异常，未见明显液性暗区。整体回声未见异常增强或减低。"
+            }
+        ]
+    },
+    {
+        "id": "sample_044_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_044_00.png"
+        ],
+        "description": "肝脏部位可见一大小不明的实性占位性病变，病变区回声不均匀，以低回声为主，边界不清，周围肝组织回声均匀，未见明显包膜。病变内部未见明显液化或钙化灶。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术专家，以循证思维与规范流程，解答每个医学问题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>需要一段针对此超声图像的解读文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏部位可见一大小不明的实性占位性病变，病变区回声不均匀，以低回声为主，边界不清，周围肝组织回声均匀，未见明显包膜。病变内部未见明显液化或钙化灶。"
+            }
+        ]
+    },
+    {
+        "id": "sample_045_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_045_00.png"
+        ],
+        "description": "肝脏显示，探头位置适中。肝实质回声均匀，未见明显异常强回声或低回声病灶。肝脏边界清晰光滑，无明显结节或占位性病变。无明显胆管扩张或血管异常回声。整体超声表现未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你专注于超声健康咨询，是贴心的人。"
+            },
+            {
+                "from": "human",
+                "value": "<image>画面里有什么？请用中文描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏显示，探头位置适中。肝实质回声均匀，未见明显异常强回声或低回声病灶。肝脏边界清晰光滑，无明显结节或占位性病变。无明显胆管扩张或血管异常回声。整体超声表现未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_046_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_046_00.png"
+        ],
+        "description": "肝脏实质回声均匀，未见明显异常包块。肝静脉呈无回声带状，边界清晰。无明显占位性病变或囊性结构，肝包膜完整。整体超声表现未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声医学助手，用逻辑严谨且贴合指南的方式，为用户提供权威解答。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用文字表达图像的内容。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，未见明显异常包块。肝静脉呈无回声带状，边界清晰。无明显占位性病变或囊性结构，肝包膜完整。整体超声表现未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_047_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_047_00.png"
+        ],
+        "description": "图像显示肝脏实质回声均匀，未见明显占位性病变。肝边界清晰，肝内血管结构未见异常改变。无明显包块或囊性病灶。整体肝脏形态正常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声影像身份，乐于用专业方法与规范流程，解答用户健康困惑。"
+            },
+            {
+                "from": "human",
+                "value": "<image>撰写一段针对超声影像的文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "图像显示肝脏实质回声均匀，未见明显占位性病变。肝边界清晰，肝内血管结构未见异常改变。无明显包块或囊性病灶。整体肝脏形态正常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_048_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_048_00.png"
+        ],
+        "description": "肝脏实质回声均匀，未见明显异常低回声或高回声病灶，肝脏轮廓清晰，边界规则。肝内血管走行清晰可见，未见肝内占位性病变。整体影像未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你以超声专家立场，细致入微地、按循证逻辑，为用户提供值得信赖的医学解读。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请为这张超声扫描结果写段文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，未见明显异常低回声或高回声病灶，肝脏轮廓清晰，边界规则。肝内血管走行清晰可见，未见肝内占位性病变。整体影像未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_049_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_049_00.png"
+        ],
+        "description": "肝脏超声图像显示肝实质回声均匀，未见明显局灶性占位性病变。肝轮廓光滑，边界清晰，未见肝内血管结构异常。未见明显囊性或实性病灶，未见包膜增厚及钙化表现。整体肝脏结构正常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心且严谨的超声医师，善用逻辑与证据，回应用户健康咨询。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图展示了什么？请说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏超声图像显示肝实质回声均匀，未见明显局灶性占位性病变。肝轮廓光滑，边界清晰，未见肝内血管结构异常。未见明显囊性或实性病灶，未见包膜增厚及钙化表现。整体肝脏结构正常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_050_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_050_00.png"
+        ],
+        "description": "肝脏右叶可见一包裹状病变，内部回声不均匀，呈混杂回声，边界清晰，包膜完整。病变内部有多个斑片状低回声区，周围肝实质回声均匀，无明显浸润迹象。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声技术专家，以循证思维与规范流程，解答每个医学问题。"
+            },
+            {
+                "from": "human",
+                "value": "<image>画面里有哪些内容？简单描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏右叶可见一包裹状病变，内部回声不均匀，呈混杂回声，边界清晰，包膜完整。病变内部有多个斑片状低回声区，周围肝实质回声均匀，无明显浸润迹象。"
+            }
+        ]
+    },
+    {
+        "id": "sample_051_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_051_00.png"
+        ],
+        "description": "肝脏实质回声均匀，未见明显异常占位性病变。肝轮廓光滑，包膜完整。无明显回声增强或减低区，未见明显液性或强回声灶，边界清晰。未见明显肝内胆管扩张。整体所见肝脏形态及回声学表现未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你化身超声医学行家，热心服务，用系统化方法与规范准则，回应提问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>图中可见哪些关键细节？请逐一描述。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，未见明显异常占位性病变。肝轮廓光滑，包膜完整。无明显回声增强或减低区，未见明显液性或强回声灶，边界清晰。未见明显肝内胆管扩张。整体所见肝脏形态及回声学表现未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_052_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_052_00.png"
+        ],
+        "description": "肝脏实质回声均匀，未见明显占位性病变。肝边界清晰，形态规则，未见明显肿块或囊性区。无明显回声增强或减弱区，肝内血管结构未见异常。整体肝脏超声表现未见明显异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声科权威，热心服务，用严谨逻辑与专业标准，回应提问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>撰写一段关于这张超声扫描的说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质回声均匀，未见明显占位性病变。肝边界清晰，形态规则，未见明显肿块或囊性区。无明显回声增强或减弱区，肝内血管结构未见异常。整体肝脏超声表现未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "sample_053_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_053_00.png"
+        ],
+        "description": "肝脏回声整体均匀，肝实质回声清晰，未见明显肝内占位性病变。肝轮廓光滑，边界清楚。未见明显液性暗区或强回声钙化影。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名热心助人的超声医师，用逻辑严密的方法，确保答复准确可靠。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用专业方式解读超声影像。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏回声整体均匀，肝实质回声清晰，未见明显肝内占位性病变。肝轮廓光滑，边界清楚。未见明显液性暗区或强回声钙化影。"
+            }
+        ]
+    },
+    {
+        "id": "sample_054_00.png",
+        "image": [
+            "public_data/Dataset of B-mode fatty liver ultrasound images/sample_054_00.png"
+        ],
+        "description": "肝脏实质内见多发稍低回声结节，边界欠清，形态不规则，内部回声不均匀，未见明显包膜，周围肝组织回声增粗。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "You are a specialized ultrasound physician."
+            },
+            {
+                "from": "human",
+                "value": "<image>请把超声扫描所见转成文字。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏实质内见多发稍低回声结节，边界欠清，形态不规则，内部回声不均匀，未见明显包膜，周围肝组织回声增粗。"
+            }
+        ]
+    }
+]

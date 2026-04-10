@@ -1,0 +1,149 @@
+[
+    {
+        "id": "volunteer01_frame_0.jpg",
+        "image": [
+            "public_data/2D_Ultrasound_Sequences_Of_The_Liver/volunteer01_frame_0.jpg"
+        ],
+        "description": "肝脏区显示回声均匀，肝实质结构清晰，未见明显占位性病变。肝脏轮廓完整，边界清晰。未见明显液性暗区或异常回声。整体肝脏形态正常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你就在用户身边，是超声健康协助者。"
+            },
+            {
+                "from": "human",
+                "value": "<image>用简洁语言描述这张超声影像。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏区显示回声均匀，肝实质结构清晰，未见明显占位性病变。肝脏轮廓完整，边界清晰。未见明显液性暗区或异常回声。整体肝脏形态正常。"
+            }
+        ]
+    },
+    {
+        "id": "volunteer02_frame_0.jpg",
+        "image": [
+            "public_data/2D_Ultrasound_Sequences_Of_The_Liver/volunteer02_frame_0.jpg"
+        ],
+        "description": "肝脏超声图像显示肝实质回声整体均匀，未见明显异常低回声灶或高回声灶。肝轮廓光滑，边界清晰。无明显占位性病变及液性暗区，肝内血管结构清晰，未见扩张或异常回声。总体提示肝脏未见明确异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你专注于超声健康支持，是贴心的助手。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图展示的是什么？请说明。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏超声图像显示肝实质回声整体均匀，未见明显异常低回声灶或高回声灶。肝轮廓光滑，边界清晰。无明显占位性病变及液性暗区，肝内血管结构清晰，未见扩张或异常回声。总体提示肝脏未见明确异常。"
+            }
+        ]
+    },
+    {
+        "id": "volunteer03_frame_0.jpg",
+        "image": [
+            "public_data/2D_Ultrasound_Sequences_Of_The_Liver/volunteer03_frame_0.jpg"
+        ],
+        "description": "肝脏超声图像显示肝实质回声整体均匀，未见明显异常低回声灶或高回声灶。肝轮廓光滑，边界清晰。无明显占位性病变及液性暗区，肝内血管结构清晰，未见扩张或异常回声。总体提示肝脏未见明确异常。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为用户的超声健康顾问，乐意为其提供帮助。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图展示了什么内容？"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏超声图像显示肝实质回声整体均匀，未见明显异常低回声灶或高回声灶。肝轮廓光滑，边界清晰。无明显占位性病变及液性暗区，肝内血管结构清晰，未见扩张或异常回声。总体提示肝脏未见明确异常。"
+            }
+        ]
+    },
+    {
+        "id": "volunteer04_frame_0.jpg",
+        "image": [
+            "public_data/2D_Ultrasound_Sequences_Of_The_Liver/volunteer04_frame_0.jpg"
+        ],
+        "description": "肝脏区显示回声均匀，肝实质回声正常，未见明显异常病变。肝脏轮廓完整清晰，边界光滑。未见明显包块或占位性病变。胆囊未见异常。整体影像符合正常肝脏超声表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声诊断博士，乐于用科学方法与可靠数据，提供精准建议。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请用中文撰写超声扫描报告。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏区显示回声均匀，肝实质回声正常，未见明显异常病变。肝脏轮廓完整清晰，边界光滑。未见明显包块或占位性病变。胆囊未见异常。整体影像符合正常肝脏超声表现。"
+            }
+        ]
+    },
+    {
+        "id": "volunteer05_frame_0.jpg",
+        "image": [
+            "public_data/2D_Ultrasound_Sequences_Of_The_Liver/volunteer05_frame_0.jpg"
+        ],
+        "description": "肝脏区显示回声均匀，肝实质回声正常，未见明显异常病变。肝脏轮廓完整清晰，边界光滑。未见明显包块或占位性病变。胆囊未见异常。整体影像符合正常肝脏超声表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你是一名超声诊断行家，以清晰逻辑与循证原则，提供精准的医学解释。"
+            },
+            {
+                "from": "human",
+                "value": "<image>这张图里有什么？"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏区显示回声均匀，肝实质回声正常，未见明显异常病变。肝脏轮廓完整清晰，边界光滑。未见明显包块或占位性病变。胆囊未见异常。整体影像符合正常肝脏超声表现。"
+            }
+        ]
+    },
+    {
+        "id": "volunteer06_frame_0.jpg",
+        "image": [
+            "public_data/2D_Ultrasound_Sequences_Of_The_Liver/volunteer06_frame_0.jpg"
+        ],
+        "description": "肝脏区显示回声均匀，肝实质回声正常，未见明显异常病变。肝脏轮廓完整清晰，边界光滑。未见明显包块或占位性病变。胆囊未见异常。整体影像符合正常肝脏超声表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声领域专家，始终遵循专业准则，为用户梳理医学疑问。"
+            },
+            {
+                "from": "human",
+                "value": "<image>描述一下图中所见。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏区显示回声均匀，肝实质回声正常，未见明显异常病变。肝脏轮廓完整清晰，边界光滑。未见明显包块或占位性病变。胆囊未见异常。整体影像符合正常肝脏超声表现。"
+            }
+        ]
+    },
+    {
+        "id": "volunteer07_frame_0.jpg",
+        "image": [
+            "public_data/2D_Ultrasound_Sequences_Of_The_Liver/volunteer07_frame_0.jpg"
+        ],
+        "description": "肝脏区显示回声均匀，肝实质回声正常，未见明显异常病变。肝脏轮廓完整清晰，边界光滑。未见明显包块或占位性病变。胆囊未见异常。整体影像符合正常肝脏超声表现。",
+        "conversations": [
+            {
+                "from": "system",
+                "value": "你作为超声诊断行家，恪守循证医学，为用户提供权威而清晰的解释。"
+            },
+            {
+                "from": "human",
+                "value": "<image>请把这张超声成像的内容文字化。"
+            },
+            {
+                "from": "gpt",
+                "value": "肝脏区显示回声均匀，肝实质回声正常，未见明显异常病变。肝脏轮廓完整清晰，边界光滑。未见明显包块或占位性病变。胆囊未见异常。整体影像符合正常肝脏超声表现。"
+            }
+        ]
+    }
+]
