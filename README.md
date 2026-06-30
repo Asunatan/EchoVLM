@@ -15,7 +15,6 @@ Official PyTorch implementation of the model described in
 ## 🔄 Updates
 - **Coming soon**: V2 with Chain-of-Thought reasoning and reinforcement learning enhancements—full training & inference code plus benchmark test-set will be fully open-sourced.
 - **2026-06-26**: A partially open-sourced, ready-to-use dataset is now available at [EchoVLM-Dataset](https://huggingface.co/datasets/chaoyinshe/EchoVLM-Dataset). 
-  - 🧠 We have also developed **ThyrMind**, a thyroid ultrasound-specific model ([ThyrMind](https://huggingface.co/chaoyinshe/ThyrMind)), and this version open-sources an even larger collection of thyroid ultrasound datasets.
 - ⚠️ **2026-04-08**: 📦 Released preliminary codebase and partial JSON configuration files (unorganized, for reference only). EchoVLM's current architecture has limited compatibility with vLLM for accelerated inference The upcoming V2 version will fully migrate to a native architecture, built upon [ms-swift](https://github.com/modelscope/ms-swift) for improved scalability and inference efficiency.
 - **Dec 26, 2025**: During inference, ensure that `output_router_logits` is in a `false` state.
 - **Dec 21, 2025**:
