@@ -9,8 +9,7 @@ Official PyTorch implementation of the model described in
 |-------------|-------------------------------------------------|
 | Paper       | [arXiv:2509.14977](https://arxiv.org/abs/2509.14977) |
 | Authors     | Chaoyin She¹, Ruifang Lu²                        |
-| Code        | [GitHub repo](https://github.com/Asunatan/EchoVLM) |
-| Model Hub   | [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM) |
+| Model Hub   | [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM_V2_lingshu_base_7b_instruct_preview) |
 
 ## 🔄 Updates
 - **Coming soon**: V2 with Chain-of-Thought reasoning and reinforcement learning enhancements—full training & inference code plus benchmark test-set will be fully open-sourced.
