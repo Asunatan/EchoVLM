@@ -12,7 +12,8 @@ Official PyTorch implementation of the model described in
 | Model Hub   | [Hugging Face](https://huggingface.co/chaoyinshe/EchoVLM_V2_lingshu_base_7b_instruct_preview) |
 
 ## 🔄 Updates
-- **Coming soon**: V2 with Chain-of-Thought reasoning and reinforcement learning enhancements—full training & inference code plus benchmark test-set will be fully open-sourced.
+- **Coming soon**: V2.1 with Chain-of-Thought reasoning and reinforcement learning enhancements—full training & inference code plus benchmark test-set will be fully open-sourced.
+- **2026-11-01**: Initial release of [EchoVLM V2](https://huggingface.co/chaoyinshe/EchoVLM_v2), with support for [ImageZoomInTool](https://github.com/QwenLM/Qwen-Agent/blob/main/qwen_agent/tools/image_zoom_in_qwen3vl.py) and newly added capabilities for multiple-choice and true/false judgment tasks.
 - **2026-07-26**: We open‑source [EchoVLM-Thyroid-9B](https://huggingface.co/chaoyinshe/EchoVLM-Thyroid-9B), a fine‑tuned MLLM tailored for thyroid ultrasound image understanding and VQA, leveraging our curated thyroid dataset to advance medical AI applications.
 - **2026-06-26**: A partially open-sourced, ready-to-use dataset is now available at [EchoVLM-Dataset](https://huggingface.co/datasets/chaoyinshe/EchoVLM-Dataset) and [EchoVLM-Thyroid](https://huggingface.co/datasets/chaoyinshe/EchoVLM-Thyroid). 
 - ⚠️ **2026-04-08**: 📦 Released preliminary codebase and partial JSON configuration files (unorganized, for reference only). EchoVLM's current architecture has limited compatibility with vLLM for accelerated inference The upcoming V2 version will fully migrate to a native architecture, built upon [ms-swift](https://github.com/modelscope/ms-swift) for improved scalability and inference efficiency.
